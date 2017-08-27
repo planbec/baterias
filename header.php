@@ -5,9 +5,9 @@
 			<div class="logo-header">
 				<h1 class="logo">
 					<a href="index.php">
-						<img src="img/logo_quality.png" alt="Quality of Care - Calidad de Vida"  title="Quality of Care - Calidad de Vida" width="240"></h1>
+						<img src="img/logo_baterias.png" alt="Accesorios para Baterias"  title="Accesorios para Baterias" width="240"></h1>
 					</a>
-				<h2 class="slogan">Quality of Care - Calidad de Vida</h2>
+				<h2 class="slogan">Accesorios para Baterias</h2>
 			</div>
 
 			
@@ -15,17 +15,20 @@
 			
 			<!-- Main-menu -->
 			<nav id="main-menu" role="navigation" class="closed">
-			<div class="redes">
-				<span><a href="index.php" <?php if($uri == 'index') echo 'class="active"'?> ><i class="fa fa-home" aria-hidden="true"></i></a></span>
-				<span><a href="contactos.php" <?php if($uri == 'contactos') echo 'class="active"'?> ><i class="fa fa-envelope" aria-hidden="true"></i></a></span>
-			</div>
+
 
 				<ul>
+					<li><a href="index.php" <?php if($uri == 'inicio') echo 'class="active"'?> >Inicio</a></li>
 					<li><a href="quienessomos.php" <?php if($uri == 'quienessomos') echo 'class="active"'?> >Quienes somos</a></li>
-					<li><a href="staff.php" <?php if($uri == 'staff' || in_array($uri,$staff) ) echo 'class="active"'?> >Staff M&eacute;dico</a></li>
-					<li><a href="tratamientos.php" <?php if($uri == 'tratamientos' || in_array($uri,$tratamientos) ) echo 'class="active"'?>  >Tratamientos para el C&aacute;ncer</a></li>
-					<li><a href="convenios.php" <?php if($uri == 'convenios') echo 'class="active"'?> >Convenios con Asegurados</a></li>
+					<li><a href="productos.php" <?php if($uri == 'productos') echo 'class="active"'?> >Productos</a></li>
+					<li><a href="contactenos.php" <?php if($uri == 'convenios') echo 'class="active"'?> >Cont&aacute;ctenos</a></li>
 				</ul>
+
+			<div class="redes">
+				<span><a href="#"><i class="fa fa-home" aria-hidden="true"></i></a></span>
+				<span><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a></span>
+				0999059364 <span><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a></span>
+			</div>
 			</nav>
 		</div>
 	</header>
