@@ -25,9 +25,9 @@
 				</ul>
 
 			<div class="redes">
-				<span><a href="#"><i class="fa fa-home" aria-hidden="true"></i></a></span>
-				<span><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a></span>
-				0999059364 <span><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a></span>
+				<span><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></span>
+				<span><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></span>
+				0999059364 <span><a href="#"><i class="fa fa-mobile" aria-hidden="true"></i></a></span>
 			</div>
 			</nav>
 		</div>

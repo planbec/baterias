@@ -1,4 +1,4 @@
-	<!-- Footer -->
+﻿	<!-- Footer -->
 	<footer id="main-footer">
 		
 		<div class="footer-call-to-action">
@@ -16,7 +16,7 @@
 				</div>
 
 				<div class="col3">
-					<h3>Tratamientos</h3>
+					<h3>Sobre nosotros</h3>
 					<ul>
 						<!--li><a href="cirugia.php" <?php if($uri == 'cirugia') echo 'class="active"'?> >Cirug&iacute;a</a></li-->
 						<li><a href="quimioterapia.php" <?php if($uri == 'quimioterapia') echo 'class="active"'?> >Quimioterapia</a></li>
@@ -25,6 +25,7 @@
 				</div>
 
 				<div class="col3">
+					<h3>Cont&aacute;ctenos</h3>
 						Direcci&oacute;n: Centro empresarial Ciudad Col&oacute;n, <br>
 						Edf. Empresarial 1, 2do piso Of 208<br>
 						Telfs.: 0996179227 - 0996171061<br>
