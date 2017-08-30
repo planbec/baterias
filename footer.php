@@ -4,32 +4,26 @@
 		<div class="footer-call-to-action">
 			
 			<div class="contact cols">
-				<div class="col3">
-					<h3>Nuestro Staff</h3>
-					<ul>
-						<li><a href="mauricio-riofrio.php" <?php if($uri == 'staff') echo 'class="active"'?> >DR. MAURICIO RIOFRIO RIOFRIO</a></li>
-						<!--li><a href="carlos-freire.php" <?php if($uri == 'staff') echo 'class="active"'?> >DR. CARLOS FREIRE ALPRECHE</a></li-->
-						<li><a href="rene-alvarez.php" <?php if($uri == 'staff') echo 'class="active"'?> >Dr. Ren&eacute; &Aacute;lvarez</a></li>
-						<li><a href="ericka-serrano.php" <?php if($uri == 'staff') echo 'class="active"'?> >DRA. ERICKA JUDITH SERRANO BUENO</a></li>
-						<li><a href="monica-jarrin.php" <?php if($uri == 'staff') echo 'class="active"'?> >DRA. MÓNICA JARRÍN</a></li>
-					</ul>
+				<div class="col5">
+					<figure class="logo-footer">
+						<img src="img/logo_baterias_footer.png">
+					</figure>
 				</div>
 
 				<div class="col3">
 					<h3>Sobre nosotros</h3>
-					<ul>
-						<!--li><a href="cirugia.php" <?php if($uri == 'cirugia') echo 'class="active"'?> >Cirug&iacute;a</a></li-->
-						<li><a href="quimioterapia.php" <?php if($uri == 'quimioterapia') echo 'class="active"'?> >Quimioterapia</a></li>
-						<li><a href="radioterapia.php" <?php if($uri == 'radioterapia') echo 'class="active"'?> >Radioterapia</a></li>
-					</ul>
+					<p>
+					Somos importadores directos de accesorios y para bater&iacute;as. 
+					Creando innovaciones en el &aacute;mbito de la personalizaci&oacute;n con calidad, servicio y profesionalismo. 
+					</p>
 				</div>
 
 				<div class="col3">
 					<h3>Cont&aacute;ctenos</h3>
 						Direcci&oacute;n: Centro empresarial Ciudad Col&oacute;n, <br>
 						Edf. Empresarial 1, 2do piso Of 208<br>
-						Telfs.: 0996179227 - 0996171061<br>
-						E-mail: <a href="mailto:info@qualityofcare.com.ec">info@qualityofcare.com.ec</a><br>
+						Cel.: (593) 099 905 9364<br>
+						E-mail: <a href="mailto:info@accesoriosparabaterias.com ">info@accesoriosparabaterias.com </a><br>
 						Guayaquil - Ecuador <br>
 				</div>
 				
@@ -42,7 +36,7 @@
 			
 			<!-- Copyright -->
 			<div class="copyright">
-				&copy; 2016 Quality of Care | Calidad de Vida  -  Todos los derechos reservados. 
+				&copy; 2017 accesorios para bater&iacute;as. Todos los derechos reservados.
 			</div>
 
 			<div class="planb">

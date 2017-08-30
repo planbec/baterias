@@ -27,7 +27,7 @@ h1 {
 h2 {
   text-transform: uppercase;
   font: 1.7rem 'Roboto Condensed',sans-serif;
-  color: #7ac142;
+  color: #d8dfe2;
   margin: 0.5rem 0 1rem;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2); }
 
@@ -185,7 +185,7 @@ hr.center {
 
 .cols .col5 {
   float: left;
-  width: 25.5%;
+  width: 18.5%;
   margin-right: 1%;
   margin-bottom: 3em; }
 
@@ -264,6 +264,7 @@ hr.center {
 #main-header {
   display: table;
   background: #fcfcfc;
+  border-top: 12px solid #d8dfe2;
   box-shadow: 0px 2px 3px #999;
   position: fixed;
   top: 0;
@@ -280,8 +281,16 @@ hr.center {
       #main-header .header-cont .redes span {
         display: inline-block;
         margin: 0.5rem 1rem 0 0; }
+        #main-header .header-cont .redes span.cel {
+          font-size: 1.5rem;
+          color: #627b86;
+          margin-left: 1rem; }
+          #main-header .header-cont .redes span.cel i {
+            font-size: 2.5rem;
+            margin-left: 0.5rem; }
         #main-header .header-cont .redes span a {
-          color: #7ac142;
+          background: #d8dfe2;
+          color: #FFF;
           display: block;
           border-radius: 50%;
           padding: 0.5rem;
@@ -291,12 +300,12 @@ hr.center {
           #main-header .header-cont .redes span a i {
             font-size: 1.6rem; }
           #main-header .header-cont .redes span a:hover {
-            background: #7ac142;
-            color: #FFF; }
+            color: #627b86;
+            background: #FFF; }
 
 #content-area {
   clear: both;
-  margin-top: 8rem; }
+  margin-top: 10rem; }
   #content-area .bg-cont {
     /*background:#efeded url(../img/bk_m10.png) top center repeat-x;*/ }
 
@@ -305,7 +314,7 @@ hr.center {
 
 .logo-header {
   display: table-cell;
-  width: 25%;
+  width: 12%;
   padding: 1rem 0 0; }
   .logo-header .logo {
     margin: 0;
@@ -330,50 +339,52 @@ hr.center {
   vertical-align: top;
   line-height: 1.3em; }
   #main-menu ul {
-    margin: 1rem 0 0 0;
+    margin: 0 0 1rem 0;
     padding: 0;
     list-style: none;
     background: 0; }
     #main-menu ul li {
       display: inline-block;
-      font: 400 1.05rem 'Roboto Condensed', Arial;
+      font: 400 1rem 'Lato', Arial;
       text-transform: uppercase; }
       #main-menu ul li .featured a {
         /*background:#50c5ab;*/
-        color: #0f4857; }
+        color: #263840; }
         #main-menu ul li .featured a:hover {
-          background: #7ac142;
+          background: #d8dfe2;
           color: #FFF; }
     #main-menu ul li a {
-      color: #0f4857;
+      color: #263840;
+      border-top: 6px solid #FFF;
       padding: .5em;
       margin: 0 0.5rem;
       background: transparent;
       display: block; }
       #main-menu ul li a:hover, #main-menu ul li a.active {
         /*background:#383636;*/
-        background: #7ac142;
-        color: #FFF;
+        border-top: 6px solid #627b86;
+        color: #365caa;
         text-decoration: none; }
 
 #main-footer {
-  clear: both; }
+  clear: both;
+  color: #627b86;
+  background: #263840; }
 
 .footer-call-to-action {
   text-align: center;
-  background: #0f4857;
+  background: #627b86;
   border-bottom: solid .4rem #537a85;
   color: #eee;
   margin-top: 2rem;
   padding: 1.5rem 0.5rem 0;
   overflow: hidden; }
   .footer-call-to-action h3 {
-    color: #71959f;
-    font: 400 1.3rem 'Roboto Condensed', Arial;
+    color: #d8dfe2;
+    font: 600 1.3rem 'Lato', Arial;
     margin-bottom: 0.5rem;
     text-transform: uppercase; }
   .footer-call-to-action .col3 {
-    border-left: 1px solid #235d6c;
     padding-left: 1.5rem;
     margin-bottom: 1rem; }
     .footer-call-to-action .col3:nth-child(3n) {
@@ -393,7 +404,7 @@ hr.center {
       text-transform: uppercase;
       margin-bottom: 0.5rem; }
       .footer-call-to-action .contact a:hover {
-        color: #7ac142; }
+        color: #d8dfe2; }
     .footer-call-to-action .contact ul {
       margin-left: 0;
       padding-left: 0;
@@ -408,7 +419,7 @@ hr.center {
           text-transform: uppercase;
           margin-bottom: 0.5rem; }
           .footer-call-to-action .contact ul li a:hover {
-            color: #7ac142; }
+            color: #d8dfe2; }
 
 #bottom-footer {
   display: table; }
@@ -419,7 +430,6 @@ hr.center {
   padding: 1.5em 0; }
 
 #bottom-footer .planb {
-  color: #999;
   text-align: right; }
 
 #footer-menu {
@@ -504,7 +514,7 @@ hr.center {
       border-radius: .3rem;
       width: 100%; }
       .citas form input.btn-form, .citas form select.btn-form {
-        background: #7ac142 !important;
+        background: #d8dfe2 !important;
         color: #FFF;
         margin-top: 0.56em !important;
         width: 40%; }
@@ -640,7 +650,7 @@ input[type="submit"], input[type="button"] {
 
 .btn {
   padding: .7em 1.2em;
-  background: #7ac142;
+  background: #d8dfe2;
   padding: 0.6em 1.2em !important;
   color: #FFF !important;
   font-family: 'Open Sans', Arial;
@@ -659,7 +669,7 @@ input[type="submit"], input[type="button"] {
   .btn.btn-light {
     background: #55abde;
     border: solid .0625rem #d9d9e2;
-    color: #0f4857 !important;
+    color: #263840 !important;
     padding: 0.5rem 1rem !important; }
     .btn.btn-light:hover {
       background: #ea5932;
@@ -667,7 +677,7 @@ input[type="submit"], input[type="button"] {
 
 .btn-form {
   padding: .6em 1.3em;
-  background: #0f4857 !important;
+  background: #263840 !important;
   color: #FFF;
   border: 2px solid #bbcecd;
   font: 0.8rem 'Open Sans', Arial;
@@ -717,7 +727,7 @@ input[type="submit"], input[type="button"] {
 .container.page-content {
   max-width: 70rem; }
   .container.page-content h2 {
-    color: #009d3d;
+    color: #627b86;
     display: block;
     font: 1.7rem/1.7rem 'Roboto Condensed',Arial;
     margin: 2rem 0 1rem;
@@ -725,7 +735,7 @@ input[type="submit"], input[type="button"] {
     text-transform: normal !important;
     text-shadow: none; }
   .container.page-content h3 {
-    color: #009d3d;
+    color: #627b86;
     font: 2rem/2rem 'Roboto Condensed',Arial;
     margin: 2.5rem 0 1rem; }
   .container.page-content h4 {
@@ -741,7 +751,7 @@ input[type="submit"], input[type="button"] {
       display: block;
       margin-top: 3rem; }
   .container.page-content a {
-    color: #009d3d;
+    color: #627b86;
     margin: 0;
     padding: 0;
     text-decoration: none;
@@ -751,7 +761,7 @@ input[type="submit"], input[type="button"] {
       text-transform: uppercase;
       font-weight: 600; }
     .container.page-content a:hover {
-      color: #0f4857;
+      color: #263840;
       text-decoration: none; }
   .container.page-content i.fa {
     font-size: 3.5rem; }
@@ -811,7 +821,7 @@ input[type="submit"], input[type="button"] {
   overflow: hidden; }
 
 .container.page-content h1 {
-  color: #0f4857;
+  color: #263840;
   text-shadow: 1px 1px 2px #FFF; }
 
 #hero-container {
@@ -861,7 +871,7 @@ input[type="submit"], input[type="button"] {
     vertical-align: top;
     width: 30%; }
     .servicio-resumen .icono a {
-      color: #90b0b6; }
+      color: #666; }
   .servicio-resumen img {
     border: 1px solid #8acf54; }
   .servicio-resumen .text {
@@ -883,7 +893,7 @@ input[type="submit"], input[type="button"] {
     border-right: none; }
 
 #servicios-home {
-  background: #7ac142;
+  background: #d8dfe2;
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 0.3rem;
   padding: 1em 0;
@@ -1054,7 +1064,7 @@ figure {
     padding-bottom: 1rem important;
     margin-bottom: 0.5rem important; }
     .col-right p strong {
-      color: #0f4857;
+      color: #263840;
       text-transform: uppercase; }
 
 /* RESPONSIVE */
