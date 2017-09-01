@@ -8,19 +8,19 @@
 	<!-- Flexslider -->
 	<aside id="testimonios-area">
 		<?php include("flexslider.php"); ?>
-		<?php include("citas.php"); ?>
 	</aside>
 
 	<div class="bg-cont">		
-		<!-- Servicios -->	
-			<?php include("servicios-home.php"); ?>
+		<!-- Sobre nosotros -->	
+			<?php include("home-sobrenosotros.php"); ?>
 
-		<!-- Servicios -->	
-			<?php include("convenios-home.php"); ?>
+		<!-- Registro -->	
+			<?php include("home-registo.php"); ?>
 
+		<!-- Productos -->	
+			<?php include("home-productos.php"); ?>
 	<div>
 	</main>
-	
 	
 	
 <?php include("footer.php"); ?>

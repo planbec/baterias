@@ -9,7 +9,7 @@
 			<div class="slides">			
 				
 				<div class="testimonio">
-					<img src="img/slider1.png" alt="Doctores" >
+					<img src="img/slider01.jpg" alt="Baterias" >
 				</div>
 				
 				<div class="testimonio">
