@@ -4,6 +4,7 @@
 			<div class="cols cf">
 				
 				<article class="servicio-resumen col2">	
+				<h1>Sobre nosotros</h1>
 					<div class="text">
 						<h2>Misi&oacute;n</h2>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat eros, tempus sed turpis quis, varius tincidunt metus. Quisque at aliquam orci. Donec faucibus felis dolor, ac pellentesque ante venenatis sed. Sed vel nisi faucibus, mattis purus sed, ultrices odio. </p>

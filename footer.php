@@ -16,6 +16,7 @@
 					Somos importadores directos de accesorios y para bater&iacute;as. 
 					Creando innovaciones en el &aacute;mbito de la personalizaci&oacute;n con calidad, servicio y profesionalismo. 
 					</p>
+					<a href="sobre-nosotros.php">Ver m&aacute;s [+]</a>
 				</div>
 
 				<div class="col3">

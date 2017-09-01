@@ -1,7 +1,7 @@
 		<div class="flexslider">
 
 			<div class="intro">
-				<p>Te brindamos nuevas<span>oportunidades de vida</span></p>
+				<p>Somos <span>importadores directos</span> de <span>accesorios</span> para <span>Bater&iacute;as</span></p>
 			</div>
 
 
@@ -13,7 +13,11 @@
 				</div>
 				
 				<div class="testimonio">
-					<img src="img/slider2.png" alt="Familias" >
+					<img src="img/slider02.jpg" alt="Familias" >
+				</div>
+
+				<div class="testimonio">
+					<img src="img/slider03.jpg" alt="Familias" >
 				</div>
 
 
@@ -21,7 +25,7 @@
 		</div>
 
 		<div class="intro_inf">
-			<p>Te brindamos nuevas<span>oportunidades de vida</span></p>
+			<p>Somos <span>importadores directos</span> de <span>accesorios</span> para <span>Bater&iacute;as</span></p>
 		</div>
 
 		<!-- /.flexslider -->
