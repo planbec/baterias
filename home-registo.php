@@ -13,8 +13,13 @@
 				<article class="servicio-resumen col2">					
 					<div class="text">
 						<h2>Escr&iacute;benos</h2>
-						<p>Conozca sobre el uso de f&aacute;rmacos para destruir las c&eacute;lulas cancerosas...</p>
-						<a href="quimioterapia.php">Ver m&aacute;s</a>
+							<form action="enviar.php" method="post">
+								<input type="text" id="nombre" name="nombre" placeholder="Nombre" required="">
+								<input type="text" id="email" name="email" placeholder="email" required="">
+								<input type="text" id="telefono" name="telefono" placeholder="Teléfono" required="">
+								<textarea id="mensaje" name="mensaje" rows="4" placeholder="Escribe aquí tus comentarios" required=""></textarea>
+								<input type="submit" value="Enviar" class="btn-form">
+							</form>
 					</div><!-- /.text -->
 				</article><!-- /.servicio-resumen -->
 				

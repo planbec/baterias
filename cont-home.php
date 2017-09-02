@@ -14,7 +14,7 @@
 
 			<aside class="col3">
 				<h3 class="title">Cont&aacute;ctenos</h3>
-					<form action="enviar.php" method="post">
+				<form action="enviar.php" method="post">
 					<input type="text" id="nombre" name="nombre" placeholder="Nombre" required="">
 					<input type="text" id="email" name="email" placeholder="email" required="">
 					<input type="text" id="telefono" name="telefono" placeholder="Teléfono" required="">

@@ -1,6 +1,6 @@
 
 		<section id="productos-home" class="container">
-			
+			<h1>Nuestros productos</h1>
 			<div class="cols cf">
 				
 				<article class="servicio-resumen col2">
