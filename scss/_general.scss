@@ -21,17 +21,15 @@ body {
   box-sizing: border-box; 
 }
 
-h1 {
-  font-size: 2.5em;
-  text-transform: uppercase; 
+h1 { border-bottom: 1px solid $color-ter; color:$color-titulo-h1; font-size: 1.8rem !important; padding: 0.5rem 0; margin:0.5rem 0 1em 0 !important;  text-transform: uppercase; 
+  span { border-bottom: 3px solid $color-sec; padding: 0.5rem 0; }
 }
 
 h2 {
   text-transform: uppercase;
-  font:1.7rem 'Roboto Condensed',sans-serif; 
-  color: $color-ter; 
+  font:400 1.45rem Lto,sans-serif; 
+  color: $color-sec; 
   margin:0.5rem 0 1rem; 
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
 
 h3 {
@@ -52,11 +50,10 @@ h6 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 1em 0;
+  margin: 0.5rem 0 1em 0;
   line-height: 1.3em; }
 
-p {
-  margin: 0 0 1.7em 0; }
+p { font-size: 1.1rem; line-height: 1.5rem; text-rendering: optimizeLegibility; margin: 0.3rem 0 1rem 0; }
 
 p:first-child {
   margin-top: 0; }
@@ -65,7 +62,7 @@ p:last-child {
   margin-bottom: 0; }
 
 a {
-  color: #50c5ab;
+  color: $color-link;
   text-decoration: none;
   -webkit-transition: all .15s linear;
   -moz-transition: all .15s linear;
@@ -73,8 +70,7 @@ a {
   -ms-transition: all .15s linear;
   transition: all .15s linear; }
 
-a:hover {
-  text-decoration: underline; }
+a:hover { text-decoration: underline; }
 
 img {
   display: inline-block;

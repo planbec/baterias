@@ -21,7 +21,7 @@ $uri = (empty($uri)) ? 'index' : $uri;
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 
-	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700|Open+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700|Raleway:300,400,700" rel="stylesheet">
 	
 	<!--link rel="stylesheet" href="font-awesome/css/font-awesome.min.css"-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">

@@ -1,6 +1,6 @@
 
 		<section id="nosotros-home" class="container">
-			<h1>Sobre nosotros</h1>
+			<h1><span>Sobre nosotros</span></h1>
 			<div class="cols cf">
 				
 				<article class="servicio-resumen col2">	

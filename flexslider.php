@@ -2,6 +2,7 @@
 
 			<div class="intro">
 				<p>Somos <span>importadores directos</span> de <span>accesorios</span> para <span>Bater&iacute;as</span></p>
+				<a href="#" class="call-to-action">Ver m&aacute;s</a>
 			</div>
 
 
@@ -26,6 +27,7 @@
 
 		<div class="intro_inf">
 			<p>Somos <span>importadores directos</span> de <span>accesorios</span> para <span>Bater&iacute;as</span></p>
+			<a href="#" class="call-to-action">Ver m&aacute;s</a>
 		</div>
 
 		<!-- /.flexslider -->
