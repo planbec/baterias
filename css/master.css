@@ -1,4 +1,6 @@
 /* Estilos generales*/
+/*#d8dfe2*/
+/*$color-azul:#365caa;*/
 .border-box {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -21,20 +23,20 @@ body {
   box-sizing: border-box; }
 
 h1 {
-  border-bottom: 1px solid #d8dfe2;
+  border-bottom: 1px solid #afcfe6;
   color: #222;
-  font-size: 1.8rem !important;
+  font-size: 1.5rem !important;
   padding: 0.5rem 0;
   margin: 0.5rem 0 1em 0 !important;
   text-transform: uppercase; }
   h1 span {
-    border-bottom: 3px solid #627b86;
+    border-bottom: 3px solid #9aa9b9;
     padding: 0.5rem 0; }
 
 h2 {
   text-transform: uppercase;
-  font: 400 1.45rem Lto,sans-serif;
-  color: #627b86;
+  font: 600 1.45rem Lato,sans-serif;
+  color: #9aa9b9;
   margin: 0.5rem 0 1rem; }
 
 h3 {
@@ -274,7 +276,7 @@ hr.center {
 #main-header {
   display: table;
   background: #fcfcfc;
-  border-top: 12px solid #d8dfe2;
+  border-top: 12px solid #afcfe6;
   box-shadow: 0px 2px 3px #999;
   position: fixed;
   top: 0;
@@ -293,13 +295,13 @@ hr.center {
         margin: 0.5rem 1rem 0 0; }
         #main-header .header-cont .redes span.cel {
           font-size: 1.5rem;
-          color: #627b86;
+          color: #9aa9b9;
           margin-left: 1rem; }
           #main-header .header-cont .redes span.cel i {
             font-size: 2.5rem;
             margin-left: 0.5rem; }
         #main-header .header-cont .redes span a {
-          background: #d8dfe2;
+          background: #afcfe6;
           color: #FFF;
           display: block;
           border-radius: 50%;
@@ -310,7 +312,7 @@ hr.center {
           #main-header .header-cont .redes span a i {
             font-size: 1.6rem; }
           #main-header .header-cont .redes span a:hover {
-            color: #627b86;
+            color: #2a4d95;
             background: #FFF; }
 
 #content-area {
@@ -363,7 +365,7 @@ hr.center {
         /*background:#50c5ab;*/
         color: #263840; }
         #main-menu ul li .featured a:hover {
-          background: #d8dfe2;
+          background: #afcfe6;
           color: #FFF; }
     #main-menu ul li a {
       color: #263840;
@@ -374,8 +376,8 @@ hr.center {
       display: block; }
       #main-menu ul li a:hover, #main-menu ul li a.active {
         /*background:#383636;*/
-        border-top: 6px solid #627b86;
-        color: #365caa;
+        border-top: 6px solid #2a4d95;
+        color: #627b86;
         text-decoration: none; }
 
 #main-footer {
@@ -385,14 +387,14 @@ hr.center {
 
 .footer-call-to-action {
   text-align: center;
-  background: #627b86;
+  background: #9aa9b9;
   border-bottom: solid .4rem #537a85;
-  color: #eee;
+  color: #263840;
   margin-top: 2rem;
   padding: 1.5rem 0.5rem 0;
   overflow: hidden; }
   .footer-call-to-action h3 {
-    color: #d8dfe2;
+    color: #FFF;
     font: 600 1.3rem 'Lato', Arial;
     margin-bottom: 0.5rem;
     text-transform: uppercase; }
@@ -411,12 +413,12 @@ hr.center {
     overflow: hidden;
     line-height: 1.5rem; }
     .footer-call-to-action .contact a {
-      color: #FFF;
+      color: #263840;
       font-size: 0.8rem;
-      text-transform: uppercase;
-      margin-bottom: 0.5rem; }
+      margin-bottom: 0.5rem;
+      text-decoration: underline; }
       .footer-call-to-action .contact a:hover {
-        color: #d8dfe2; }
+        color: #2a4d95; }
     .footer-call-to-action .contact ul {
       margin-left: 0;
       padding-left: 0;
@@ -431,18 +433,19 @@ hr.center {
           text-transform: uppercase;
           margin-bottom: 0.5rem; }
           .footer-call-to-action .contact ul li a:hover {
-            color: #d8dfe2; }
+            color: #afcfe6; }
 
 #bottom-footer {
-  display: table; }
-
-#bottom-footer .copyright, #bottom-footer #footer-menu, #bottom-footer .planb {
-  display: table-cell;
-  width: 50%;
-  padding: 1.5em 0; }
-
-#bottom-footer .planb {
-  text-align: right; }
+  display: table;
+  padding: 0; }
+  #bottom-footer .copyright,
+  #bottom-footer #footer-menu,
+  #bottom-footer .planb {
+    display: table-cell;
+    width: 50%;
+    padding: 1.5em 0; }
+  #bottom-footer .planb {
+    text-align: right; }
 
 #footer-menu {
   text-align: right;
@@ -521,7 +524,7 @@ hr.center {
       border-radius: .3rem;
       width: 100%; }
       .citas form input.btn-form, .citas form select.btn-form {
-        background: #d8dfe2 !important;
+        background: #afcfe6 !important;
         color: #FFF;
         margin-top: 0.56em !important;
         width: 40%; }
@@ -536,12 +539,16 @@ hr.center {
   -ms-transition: all .15s linear;
   transition: all .15s linear; }
   #nosotros-home a:hover {
-    background: #d8dfe2;
+    background: #afcfe6;
     text-decoration: underline; }
 
 #registros-home {
-  background: url(../img/bg-batery.jpg) top center; }
+  background: url(../img/bg-batery.jpg) no-repeat top center;
+  background-size: cover; }
+  #registros-home h2 {
+    color: #afcfe6; }
   #registros-home h3 {
+    color: #FFF;
     font: 300 2rem/3rem Raleway, Arial, sans-serif; }
     #registros-home h3 strong {
       font-weight: 400;
@@ -676,7 +683,7 @@ input[type="submit"], input[type="button"] {
 
 .btn {
   padding: .7em 1.2em;
-  background: #d8dfe2;
+  background: #afcfe6;
   padding: 0.6em 1.2em !important;
   color: #FFF !important;
   font-family: 'Open Sans', Arial;
@@ -837,6 +844,12 @@ input[type="submit"], input[type="button"] {
       margin-top: 0.5rem;
       width: 100%; }
 
+#productos-home .producto {
+  width: 17%;
+  display: inline-block;
+  margin: 1rem 1%;
+  text-align: center; }
+
 .call-to-action {
   background: #ec3e1c;
   color: #FFF;
@@ -918,7 +931,7 @@ input[type="submit"], input[type="button"] {
     width: 100%; }
 
 #servicios-home {
-  background: #d8dfe2;
+  background: #afcfe6;
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 0.3rem;
   padding: 1em 0;

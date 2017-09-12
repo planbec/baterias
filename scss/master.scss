@@ -63,13 +63,13 @@
 			/*float: right;*/
 			span { display: inline-block; margin: 0.5rem 1rem 0 0;
 
-				&.cel { font-size: 1.5rem; color: $color-sec; margin-left:1rem;
+				&.cel { font-size: 1.5rem; color: $bg-gris; margin-left:1rem;
 					i { font-size: 2.5rem; margin-left:0.5rem; }
 				}
 				a {
 					background:$color-ter; color:$color-bla; display:block; border-radius:50%; padding: 0.5rem; width:2.5rem; height:2.5rem; text-align: center; 
 					i { font-size: 1.6rem;}
-				&:hover { color:$color-sec; background:$color-bla; }
+				&:hover { color:$color-azul; background:$color-bla; }
 				}
 			}
 		}
@@ -109,7 +109,7 @@
 			}
 		}
 		li a { color:$color-prim; border-top:6px solid $color-bla;  padding:.5em; margin: 0 0.5rem; background:transparent; display:block;
-			&:hover, &.active { /*background:#383636;*/ border-top:6px solid $color-sec; color:$color-azul; text-decoration:none;
+			&:hover, &.active { /*background:#383636;*/ border-top:6px solid $color-azul; color:$color-sec; text-decoration:none;
 			}
 		}
 	}
@@ -118,8 +118,8 @@
 #main-footer{clear: both; color:$color-sec; background:$color-prim;}
 
 .footer-call-to-action{
-	text-align:center; background:$color-sec; border-bottom:solid .4rem #537a85;  color:#eee; margin-top:2rem; padding:1.5rem 0.5rem 0; overflow: hidden;
-	h3 { color: $color-ter; font:600 1.3rem 'Lato', Arial; margin-bottom: 0.5rem; text-transform: uppercase;}
+	text-align:center; background:$bg-gris; border-bottom:solid .4rem #537a85;  color:$color-prim; margin-top:2rem; padding:1.5rem 0.5rem 0; overflow: hidden;
+	h3 { color: $color-bla; font:600 1.3rem 'Lato', Arial; margin-bottom: 0.5rem; text-transform: uppercase;}
 	.col3 { padding-left: 1.5rem; margin-bottom: 1rem;
 			&:nth-child(3n) {
 			    margin-right: 0;
@@ -130,8 +130,8 @@
 
 
 	.contact { text-align:left; margin:auto; max-width:75rem; overflow: hidden; line-height: 1.5rem;
-		a { color: $color-bla; font-size: 0.8rem; text-transform: uppercase; margin-bottom: 0.5rem; 
-			&:hover {color: $color-ter;}
+		a { color: $color-prim; font-size: 0.8rem; margin-bottom: 0.5rem; text-decoration: underline; 
+			&:hover {color: $color-azul;}
 		}
 		ul { margin-left: 0; padding-left: 0; margin-bottom: 0.5rem; 
 			li {
@@ -145,9 +145,21 @@
 	}
 }
 
-#bottom-footer {display:table; }
-#bottom-footer .copyright,#bottom-footer #footer-menu,#bottom-footer .planb {display:table-cell;width:50%;padding:1.5em 0}
-#bottom-footer .planb { text-align: right;}
+#bottom-footer {
+	display:table; 
+	padding: 0; 
+	.copyright,
+	#footer-menu,
+	.planb {
+		display:table-cell;
+		width:50%;
+		padding:1.5em 0
+	}
+	.planb { 
+		text-align: right;
+	}
+}
+
 
 #footer-menu { text-align:right; float: right; margin:-1rem 0 1rem; 
 	ul, li{margin:0;padding:0;list-style:none;background:0; 
@@ -215,8 +227,11 @@
 }
 
 
-#registros-home { background: url(../img/bg-batery.jpg) top center; 
-	h3 { font:300 2rem/3rem Raleway, Arial, sans-serif; 
+#registros-home { 
+	background: url(../img/bg-batery.jpg) no-repeat top center /*fixed*/;
+	background-size: cover;
+	h2 { color: $color-ter; }
+	h3 { color:$color-bla; font:300 2rem/3rem Raleway, Arial, sans-serif; 
 	strong { font-weight: 400; font-size: 2.5rem;}
 	}
 }
@@ -338,6 +353,17 @@ input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff
 			img { border:1px solid #ededed;border-radius:1rem; padding: 0.2rem; margin-top: 0.5rem; width:100%;}
 		}
 	}
+}
+
+
+
+#productos-home {
+	.producto {     
+		width: 17%;
+	    display: inline-block;
+	    margin: 1rem 1%;
+	    text-align: center; 
+    }
 }
 
 
