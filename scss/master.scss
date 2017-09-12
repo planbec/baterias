@@ -217,6 +217,7 @@
 
 
 #nosotros-home a {
+	color: $bg-call;
 	padding: 0.5rem 0.8rem;
 	-webkit-transition: all .15s linear;
 	-moz-transition: all .15s linear;
@@ -359,15 +360,21 @@ input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff
 
 #productos-home {
 	.producto {     
-		width: 17%;
+		width: 19%;
 	    display: inline-block;
-	    margin: 1rem 1%;
-	    text-align: center; 
+	    padding: 1rem 1%;
+	    text-align: center;
+	    border-radius: 0.8rem;
+	    margin: 1rem 0 3rem;
+	    img { border-radius: 0.5rem; 
+	    	&:hover { opacity: 0.5;}
+	    }
+	    &:hover { background: #eee; }
     }
 }
 
 
-.call-to-action { background:$bg-call; color:$color-bla; border-radius:0.5rem; padding:0.8rem 2rem; text-decoration: none; text-transform: uppercase; 
+.call-to-action { background:$bg-call; color:$color-bla; border:1px solid $bg-call; border-radius:0.5rem; padding:0.8rem 2rem; text-decoration: none; text-transform: uppercase; 
 	&:hover { background:$color-bla; color:$bg-call; text-decoration: none; }
 }
 

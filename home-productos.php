@@ -29,7 +29,7 @@
 						<a href="calidad.php">Ver m&aacute;s</a>
 					</div><!-- /.icono -->
 
-					<a href="#" class="call-to-action">Ver más productos</a>
+					<center><a href="#" class="call-to-action">Ver más productos</a></center>
 					
 				
 			</div><!-- /.cols -->

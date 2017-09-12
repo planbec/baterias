@@ -24,7 +24,7 @@ body {
 
 h1 {
   border-bottom: 1px solid #afcfe6;
-  color: #222;
+  color: #263840;
   font-size: 1.5rem !important;
   padding: 0.5rem 0;
   margin: 0.5rem 0 1em 0 !important;
@@ -532,6 +532,7 @@ hr.center {
           background: #e99935 !important; }
 
 #nosotros-home a {
+  color: #ec3e1c;
   padding: 0.5rem 0.8rem;
   -webkit-transition: all .15s linear;
   -moz-transition: all .15s linear;
@@ -845,14 +846,23 @@ input[type="submit"], input[type="button"] {
       width: 100%; }
 
 #productos-home .producto {
-  width: 17%;
+  width: 19%;
   display: inline-block;
-  margin: 1rem 1%;
-  text-align: center; }
+  padding: 1rem 1%;
+  text-align: center;
+  border-radius: 0.8rem;
+  margin: 1rem 0 3rem; }
+  #productos-home .producto img {
+    border-radius: 0.5rem; }
+    #productos-home .producto img:hover {
+      opacity: 0.5; }
+  #productos-home .producto:hover {
+    background: #eee; }
 
 .call-to-action {
   background: #ec3e1c;
   color: #FFF;
+  border: 1px solid #ec3e1c;
   border-radius: 0.5rem;
   padding: 0.8rem 2rem;
   text-decoration: none;
