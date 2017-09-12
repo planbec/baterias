@@ -378,7 +378,7 @@ input[type="submit"],input[type="button"]{ border:0;color:#fff;display:inline-bl
 
 		h3 { color: $color-sec; font: 2rem/2rem 'Lato',Arial;; margin: 2.5rem 0 1rem; }
 		h4 { color:#6a8d93; margin: 1rem 0; font-size: 1.3rem; text-shadow: 1px 1px 2px #FFF; }
-		p { margin:1rem 0 1.5rem; font-size: 1.1rem; line-height: 1.6rem; 
+		p { margin:1rem 0 1.5rem; font-size: 1.1rem; line-height: 1.6rem; text-align: justify;
 			strong { 
 				display: block; margin-top:3rem; 
 			}
@@ -388,7 +388,7 @@ input[type="submit"],input[type="button"]{ border:0;color:#fff;display:inline-bl
 			span { display: block; text-transform: uppercase; font-weight: 600;}
 			&:hover { color: $color-prim; text-decoration: none; }
 		}
-		i.fa { font-size: 3.5rem; }
+		i.fa { color:#FFF; font-size:4rem; background:#afcfe6; padding:1rem; border-radius:50%; }
 		ul { margin-bottom: 3rem; margin: 0; 
 			li { list-style: circle; list-style-position: outside; font-size: 1.1rem; padding: 0.5rem 0;}
 		}
@@ -396,6 +396,7 @@ input[type="submit"],input[type="button"]{ border:0;color:#fff;display:inline-bl
 
 		.ampliada {  width: 60%; float: left; margin-right:4%; }
 		aside { width: 35%; float:left; padding-top:0; 
+			.col-center { padding-bottom:1rem; border-bottom:1px dotted #ccc; margin:1rem 0 2rem; }
 			.citas {position: relative; top: 2rem; right: 0; width: 100%;
 				h2 { background: none; margin:0; color: #FFF; text-shadow:none; }
 			}

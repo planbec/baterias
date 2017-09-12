@@ -8,10 +8,10 @@
 		<article class="single-page">
 			
 			<div class="container page-content">
+				<h1><span>Quienes somos</span></h1>					
 
 				<div class="ampliada">
 
-					<h1><span>Quienes somos</span></h1>				
 				    <!-- Slideshow 1 -->
 				    <div id="testimonios-area">
 						<div class="flexslider">
@@ -42,13 +42,17 @@
 
 
 			<aside>
-				<i class="fa fa-paper-plane" aria-hidden="true"></i>
-				<h2>Misi&oacute;n</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat eros, tempus sed turpis quis, varius tincidunt metus. Quisque at aliquam orci. Donec faucibus felis dolor, ac pellentesque ante venenatis sed. Sed vel nisi faucibus, mattis purus sed, ultrices odio.</p>
+				<div class="col-center">
+				<i class="fa fa-line-chart" aria-hidden="true"></i>
+					<h2>Misi&oacute;n</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat eros, tempus sed turpis quis, varius tincidunt metus. Quisque at aliquam orci. Donec faucibus felis dolor, ac pellentesque ante venenatis sed. Sed vel nisi faucibus, mattis purus sed, ultrices odio.</p>
+				</div>
 
-				<i class="fa fa-paper-plane" aria-hidden="true"></i>
-				<h2>Visi&oacute;n</h2>
-<p>Vivamus vitae tempus orci. Pellentesque sed sollicitudin metus. Aenean consequat erat vel felis ultricies, vitae efficitur augue placerat. Morbi tortor turpis, interdum eget libero eu, sollicitudin posuere nulla. Vivamus sagittis in mi ut sagittis.</p>
+				<div class="col-center">
+				<i class="fa fa-eye" aria-hidden="true"></i>
+					<h2>Visi&oacute;n</h2>
+					<p>Vivamus vitae tempus orci. Pellentesque sed sollicitudin metus. Aenean consequat erat vel felis ultricies, vitae efficitur augue placerat. Morbi tortor turpis, interdum eget libero eu, sollicitudin posuere nulla. Vivamus sagittis in mi ut sagittis.</p>
+				</div>
 			</aside>
 
 			</div><!-- /.content -->

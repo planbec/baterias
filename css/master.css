@@ -771,7 +771,8 @@ input[type="submit"], input[type="button"] {
   .container.page-content p {
     margin: 1rem 0 1.5rem;
     font-size: 1.1rem;
-    line-height: 1.6rem; }
+    line-height: 1.6rem;
+    text-align: justify; }
     .container.page-content p strong {
       display: block;
       margin-top: 3rem; }
@@ -789,7 +790,11 @@ input[type="submit"], input[type="button"] {
       color: #30436b;
       text-decoration: none; }
   .container.page-content i.fa {
-    font-size: 3.5rem; }
+    color: #FFF;
+    font-size: 4rem;
+    background: #afcfe6;
+    padding: 1rem;
+    border-radius: 50%; }
   .container.page-content ul {
     margin-bottom: 3rem;
     margin: 0; }
@@ -806,6 +811,10 @@ input[type="submit"], input[type="button"] {
     width: 35%;
     float: left;
     padding-top: 0; }
+    .container.page-content aside .col-center {
+      padding-bottom: 1rem;
+      border-bottom: 1px dotted #ccc;
+      margin: 1rem 0 2rem; }
     .container.page-content aside .citas {
       position: relative;
       top: 2rem;
