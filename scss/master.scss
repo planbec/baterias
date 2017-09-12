@@ -77,7 +77,7 @@
 }
 
 
-#content-area { clear:both; margin-top:10rem; 
+#content-area { clear:both; margin-top:12rem; 
 	.bg-cont {
 	    /*background:#efeded url(../img/bk_m10.png) top center repeat-x;*/
 	}
@@ -274,7 +274,7 @@
 
 
 /* Call to action */
-.call-to-action { background:$bg-call; color:$color-bla; border:1px solid $bg-call; border-radius:0.5rem; padding:0.8rem 2rem; text-decoration: none; text-transform: uppercase; 
+.call-to-action { background:$bg-call; color:$color-bla; border:1px solid $bg-call; border-radius:1.5rem; padding:0.8rem 2rem; text-decoration: none; text-transform: uppercase; 
 	&:hover { background:$color-bla; color:$bg-call; text-decoration: none; }
 }
 
@@ -364,6 +364,7 @@ input[type="submit"],input[type="button"]{ border:0;color:#fff;display:inline-bl
 .container {
 	&.page-content {
 		max-width:70rem /*46.25rem*/;
+		overflow: hidden;
 
 		h2 { 
 	    	color: $color-sec;
@@ -393,7 +394,7 @@ input[type="submit"],input[type="button"]{ border:0;color:#fff;display:inline-bl
 		}
 
 
-		.especialidades {  width: 60%; float: left; margin-right:4%; }
+		.ampliada {  width: 60%; float: left; margin-right:4%; }
 		aside { width: 35%; float:left; padding-top:0; 
 			.citas {position: relative; top: 2rem; right: 0; width: 100%;
 				h2 { background: none; margin:0; color: #FFF; text-shadow:none; }
