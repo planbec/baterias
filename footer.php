@@ -42,7 +42,7 @@
 
 			<div class="planb">
 				Desarrollado por 
-				<a href="http://www.planb.ec" target="_blank"><img src="img/planb.jpg" title="PlanB.ec"></a>
+				<a href="http://www.planb.ec" target="_blank"><img src="img/logo_planB.png" title="PlanB.ec"></a>
 			</div>
 			
 
