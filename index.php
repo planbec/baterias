@@ -1,5 +1,4 @@
 <?php include ("code-head.php"); ?>
-
 <body>
 <?php include("header.php"); ?>
 	
@@ -10,18 +9,17 @@
 		<?php include("flexslider.php"); ?>
 	</aside>
 
-	<div class="bg-cont">		
-		<!-- Sobre nosotros -->	
-			<?php include("home-sobrenosotros.php"); ?>
+		<div class="bg-cont">		
+			<!-- Sobre nosotros -->	
+				<?php include("home-sobrenosotros.php"); ?>
 
-		<!-- Registro -->	
-			<?php include("home-registo.php"); ?>
+			<!-- Registro -->	
+				<?php include("home-registo.php"); ?>
 
-		<!-- Productos -->	
-			<?php include("home-productos.php"); ?>
-	<div>
+			<!-- Productos -->	
+				<?php include("home-productos.php"); ?>
+		<div>
 	</main>
-	
 	
 <?php include("footer.php"); ?>
 	

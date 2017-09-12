@@ -1,4 +1,3 @@
-
 		<section id="registros-home" class="">
 			
 			<div class="container cols cf">

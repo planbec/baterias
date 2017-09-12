@@ -18,10 +18,10 @@
 
 
 				<ul>
-					<li><a href="index.php" <?php if($uri == 'inicio') echo 'class="active"'?> >Inicio</a></li>
+					<li><a href="index.php" <?php if($uri == 'index') echo 'class="active"'?> >Inicio</a></li>
 					<li><a href="quienessomos.php" <?php if($uri == 'quienessomos') echo 'class="active"'?> >Quienes somos</a></li>
 					<li><a href="productos.php" <?php if($uri == 'productos') echo 'class="active"'?> >Productos</a></li>
-					<li><a href="contactenos.php" <?php if($uri == 'convenios') echo 'class="active"'?> >Cont&aacute;ctenos</a></li>
+					<li><a href="contactenos.php" <?php if($uri == 'contactenos') echo 'class="active"'?> >Cont&aacute;ctenos</a></li>
 				</ul>
 
 			<div class="redes">
