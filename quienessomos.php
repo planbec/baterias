@@ -45,13 +45,13 @@
 				<div class="col-center">
 				<i class="fa fa-line-chart" aria-hidden="true"></i>
 					<h2>Misi&oacute;n</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat eros, tempus sed turpis quis, varius tincidunt metus. Quisque at aliquam orci. Donec faucibus felis dolor, ac pellentesque ante venenatis sed. Sed vel nisi faucibus, mattis purus sed, ultrices odio.</p>
+					<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat eros, tempus sed turpis quis, varius tincidunt metus. Quisque at aliquam orci. Donec faucibus felis dolor, ac pellentesque ante venenatis sed. Sed vel nisi faucibus, mattis purus sed.</p>
 				</div>
 
 				<div class="col-center">
 				<i class="fa fa-eye" aria-hidden="true"></i>
 					<h2>Visi&oacute;n</h2>
-					<p>Vivamus vitae tempus orci. Pellentesque sed sollicitudin metus. Aenean consequat erat vel felis ultricies, vitae efficitur augue placerat. Morbi tortor turpis, interdum eget libero eu, sollicitudin posuere nulla. Vivamus sagittis in mi ut sagittis.</p>
+					<p class="text-center">Vivamus vitae tempus orci. Pellentesque sed sollicitudin metus. Aenean consequat erat vel felis ultricies, vitae efficitur augue placerat. Morbi tortor turpis, interdum eget libero eu, sollicitudin posuere nulla. Vivamus sagittis in mi ut sagittis.</p>
 				</div>
 			</aside>
 

@@ -128,7 +128,7 @@ hr.center {
   margin-right: auto; }
 
 .text-center {
-  text-align: center; }
+  text-align: center !important; }
 
 .fl {
   float: left; }
@@ -814,7 +814,8 @@ input[type="submit"], input[type="button"] {
     .container.page-content aside .col-center {
       padding-bottom: 1rem;
       border-bottom: 1px dotted #ccc;
-      margin: 1rem 0 2rem; }
+      margin: 1rem 0 2rem;
+      text-align: center; }
     .container.page-content aside .citas {
       position: relative;
       top: 2rem;
