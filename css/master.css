@@ -1168,6 +1168,9 @@ figure {
     display: none; } }
 /* Media Query 980px */
 @media only screen and (max-width: 61.25rem) {
+  .flexslider .intro {
+    display: none; }
+
   #hero {
     padding-right: 50%;
     width: 95%; }
@@ -1219,8 +1222,19 @@ figure {
   #hero .dispositivos {
     width: 40%; }
 
-  .flexslider .intro, #footer-menu {
+  #footer-menu {
     display: none; }
+
+  .flexslider .intro {
+    padding: 1.5rem 1rem;
+    width: 25%; }
+
+  .flexslider .intro p {
+    line-height: 2rem;
+    font-size: 1.5rem; }
+
+  .flexslider .intro p span {
+    font-size: 1.8rem; }
 
   .servicio-resumen {
     border: none; }

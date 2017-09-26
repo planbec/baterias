@@ -29,11 +29,12 @@
 					<section>
 						<div class="text">
 							
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat eros, tempus sed turpis quis, varius tincidunt metus. Quisque at aliquam orci. Donec faucibus felis dolor, ac pellentesque ante venenatis sed. Sed vel nisi faucibus, mattis purus sed, ultrices odio.</p>
+<p>Cuando se trata de su automóvil, usted solo quiere las piezas y los servicios de mejor calidad. En AB Accesorios Para Baterias, nos comprometemos a brindarles a nuestros clientes una calidad incomparable a precios competitivos.</p>
 
-	<p>Vivamus vitae tempus orci. Pellentesque sed sollicitudin metus. Aenean consequat erat vel felis ultricies, vitae efficitur augue placerat. Morbi tortor turpis, interdum eget libero eu, sollicitudin posuere nulla. Vivamus sagittis in mi ut sagittis.</p>
+<p>Independientemente de la estación, AB Accesorios Para Baterias tiene cubiertas sus necesidades automotrices. Nuestro personal experimentado y conocedor se esfuerza por brindar un servicio honesto y confiable. Deje que nos encarguemos de sus necesidades automotrices para que usted pueda seguir con su día.</p>
 
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat eros, tempus sed turpis quis, varius tincidunt metus. Quisque at aliquam orci. Donec faucibus felis dolor, ac pellentesque ante venenatis sed. Sed v
+<p>Nos complacerá responder todas sus preguntas. <br>Llámenos hoy mismo al (593) 096 906 2732.</p>
+
 
 						</div><!-- /.text -->
 					</section><!-- /.detalle-servicio -->

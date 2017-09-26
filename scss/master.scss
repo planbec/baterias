@@ -601,6 +601,7 @@ figure {text-align: center;}
 
 /* Media Query 900px */
 @media only screen and (max-width: 56.25rem){
+
 	#bottom-footer{ 
 		display:block; 
 		padding:1rem 0.5rem;
@@ -625,6 +626,8 @@ figure {text-align: center;}
 
 /* Media Query 980px */
 @media only screen and (max-width: 61.25rem) {
+	.flexslider .intro {display: none;}
+
 	#hero{ padding-right:50%; width:95%; }
 	#hero .dispositivos{width:40% }
 	#widget-home aside.col3 { width: 96%; }
@@ -648,7 +651,21 @@ figure {text-align: center;}
 	#hero{ padding-right:40%; width:95%; }
 	#hero .dispositivos{width:40% }
 
-	.flexslider .intro,#footer-menu {display: none;}
+	#footer-menu {display: none;}
+
+	.flexslider .intro {
+	    padding: 1.5rem 1rem;
+		width: 25%
+	}
+	
+	.flexslider .intro p {
+		line-height:2rem;
+		font-size:1.5rem;
+	}
+
+	.flexslider .intro p span {
+		font-size:1.8rem;
+	}
 	.servicio-resumen { border:none; }
 
 	.intro_inf { display: none; }

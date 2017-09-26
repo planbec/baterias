@@ -16,14 +16,13 @@
 					Somos importadores directos de accesorios y para bater&iacute;as. 
 					Creando innovaciones en el &aacute;mbito de la personalizaci&oacute;n con calidad, servicio y profesionalismo. 
 					</p>
-					<a href="sobre-nosotros.php">Ver m&aacute;s [+]</a>
+					<a href="quienessomos.php">Ver m&aacute;s [+]</a>
 				</div>
 
 				<div class="col3">
 					<h3>Cont&aacute;ctenos</h3>
-						Direcci&oacute;n: Centro empresarial Ciudad Col&oacute;n, <br>
-						Edf. Empresarial 1, 2do piso Of 208<br>
-						Cel.: (593) 099 905 9364<br>
+						Cel.: (593) 099 905 9364 / <br>(593) 096 906 2732<br>
+						Telf.:(593) 04 501 9708<br>
 						E-mail: <a href="mailto:info@accesoriosparabaterias.com ">info@accesoriosparabaterias.com </a><br>
 						Guayaquil - Ecuador <br>
 				</div>
@@ -37,7 +36,7 @@
 			
 			<!-- Copyright -->
 			<div class="copyright">
-				&copy; 2017 accesorios para bater&iacute;as. Todos los derechos reservados.
+				&copy; 2017 Accesorios para Bater&iacute;as. Todos los derechos reservados.
 			</div>
 
 			<div class="planb">
