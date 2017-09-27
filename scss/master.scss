@@ -58,6 +58,8 @@
 	top:0; 
 	width: 100%; 
 	z-index: 3000; 
+	&.large { height: 170px; }
+	&.small { height: 100px; /*margin-top:-30px; padding-top: 1rem;*/ }
 	.header-cont { border-bottom:1px solid #FFF; box-sizing:border-box; margin:auto; max-width: 75rem; padding: 0 1rem; 
 		.redes {
 			/*float: right;*/
@@ -77,7 +79,7 @@
 }
 
 
-#content-area { clear:both; margin-top:12rem; 
+#content-area { clear:both; margin-top:11rem; 
 	.bg-cont {
 	    /*background:#efeded url(../img/bk_m10.png) top center repeat-x;*/
 	}
@@ -87,7 +89,7 @@
 
 #main-header .menu-trigger{ display:none }
 .logo-header{ display:table-cell; width:12%; padding:1rem 0 0;
-	.logo {margin:0; padding:0; display:block; line-height:1rem; border-bottom: none; 
+	.logo {margin:0; padding:0; display:block; line-height:1rem; border-bottom: none;  width: 160px;
 		img { width: 100%; }
 	 }
 	.slogan{ display:none; font-size:.7em;text-align:center;text-transform:uppercase;line-height:1.2em;
@@ -96,10 +98,33 @@
 	}
 }
 
+.small .logo-header {
+    background: none;
+    .logo {
+    	img { 
+    		padding: 0;
+    		width: 120px;
+    	}
+    }
+}
+
+header, .logo-header, .call-action, img {
+			transition: all .5s;
+			-moz-transition: all .5s; /* Firefox 4 */
+			-webkit-transition: all .5s; /* Safari and Chrome */
+			-o-transition: all .5s; /* Opera */
+		}
+
 
 /* Menu */
-#main-menu {display:table-cell; width:70%; text-align:right; vertical-align:top; line-height:1.3em;
-	ul {margin:0 0 2.2rem 0; padding:0; list-style:none;background:0;
+#main-menu {
+	display:table-cell; 
+	width:70%; 
+	text-align:right; 
+	vertical-align:top; 
+	line-height:1.3em;
+
+	ul {margin:0 0 1.5rem 0; padding:0; list-style:none;background:0;
 		li{ display:inline-block; font:400 1rem 'Lato', Arial; text-transform: uppercase;
 			.featured a {/*background:#50c5ab;*/color:$color-prim; 
 				&:hover{background:$color-ter; color:$color-bla;
@@ -394,7 +419,7 @@ input[type="submit"],input[type="button"]{ border:0;color:#fff;display:inline-bl
 		h4 { color:#6a8d93; margin: 1rem 0; font-size: 1.3rem; text-shadow: 1px 1px 2px #FFF; }
 		p { margin:1rem 0 1.5rem; font-size: 1.1rem; line-height: 1.6rem; text-align: justify;
 			strong { 
-				display: block; margin-top:3rem; 
+				color:$color-titulos; 
 			}
 		}
 		

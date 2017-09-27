@@ -286,6 +286,11 @@ hr.center {
   top: 0;
   width: 100%;
   z-index: 3000; }
+  #main-header.large {
+    height: 170px; }
+  #main-header.small {
+    height: 100px;
+    /*margin-top:-30px; padding-top: 1rem;*/ }
   #main-header .header-cont {
     border-bottom: 1px solid #FFF;
     box-sizing: border-box;
@@ -321,7 +326,7 @@ hr.center {
 
 #content-area {
   clear: both;
-  margin-top: 12rem; }
+  margin-top: 11rem; }
   #content-area .bg-cont {
     /*background:#efeded url(../img/bk_m10.png) top center repeat-x;*/ }
 
@@ -337,7 +342,8 @@ hr.center {
     padding: 0;
     display: block;
     line-height: 1rem;
-    border-bottom: none; }
+    border-bottom: none;
+    width: 160px; }
     .logo-header .logo img {
       width: 100%; }
   .logo-header .slogan {
@@ -349,6 +355,21 @@ hr.center {
   .logo-header:hover {
     text-decoration: none; }
 
+.small .logo-header {
+  background: none; }
+  .small .logo-header .logo img {
+    padding: 0;
+    width: 120px; }
+
+header, .logo-header, .call-action, img {
+  transition: all .5s;
+  -moz-transition: all .5s;
+  /* Firefox 4 */
+  -webkit-transition: all .5s;
+  /* Safari and Chrome */
+  -o-transition: all .5s;
+  /* Opera */ }
+
 /* Menu */
 #main-menu {
   display: table-cell;
@@ -357,7 +378,7 @@ hr.center {
   vertical-align: top;
   line-height: 1.3em; }
   #main-menu ul {
-    margin: 0 0 2.2rem 0;
+    margin: 0 0 1.5rem 0;
     padding: 0;
     list-style: none;
     background: 0; }
@@ -792,8 +813,7 @@ input[type="submit"], input[type="button"] {
     line-height: 1.6rem;
     text-align: justify; }
     .container.page-content p strong {
-      display: block;
-      margin-top: 3rem; }
+      color: #222; }
   .container.page-content a {
     color: #627b86;
     margin: 0;
