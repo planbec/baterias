@@ -15,23 +15,20 @@
 
 
 
-				<h1><span>Bandejas</span></h1>
+				<h1><span>Salvadores de Memoria</span></h1>
 
 				<div class="portafolio-ampliado">
-					<img src="img/prod_bandejas.jpg" alt="Bandejas" class="imagen-destacada">
+					<img src="img/prod_salvadores_memoria.jpg" alt="Salvadores de Memoria" class="imagen-destacada">
 				</div>
 				
 				<div class="portafolio-ampliado">
 				<p><strong>Especificaciones:</strong></p>
 				<ul>
-					<li>Medidas en:
-						<ul>
-							<li><strong>Bandeja Pequeña</strong> (198 x 132): NS40</li>
-							<li><strong>Bandeja Mediana</strong> (252 x 174): N40 – 36 – 42 – 55  - 65</li>
-							<li><strong>Bandeja Grande</strong> (282 x 174): 66 – 34 - 24</li>
-						</ul>
-					</li>
-					<li>Material: Caucho</li>
+					<li>Se utiliza cuando se desconecta la batería para conservar la memoria del ordenador</li>
+					<li>Evita la pérdida de la memoria a los relojes, radios digitales, cerraduras de las puertas, y mucho más</li>
+					<li>Mantiene la configuración de hasta 4 horas</li>
+					<li>El uso con batería de 9 voltios (no incluido)</li>
+					<li>Basta con conectarlo al encendedor de cigarrillos</li>
 				</ul>
 				</div>
 

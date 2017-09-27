@@ -15,23 +15,18 @@
 
 
 
-				<h1><span>Bandejas</span></h1>
+				<h1><span>Densimetros</span></h1>
 
 				<div class="portafolio-ampliado">
-					<img src="img/prod_bandejas.jpg" alt="Bandejas" class="imagen-destacada">
+					<img src="img/prod_densimetros.jpg" alt="Densimetros" class="imagen-destacada">
 				</div>
 				
 				<div class="portafolio-ampliado">
 				<p><strong>Especificaciones:</strong></p>
 				<ul>
-					<li>Medidas en:
-						<ul>
-							<li><strong>Bandeja Pequeña</strong> (198 x 132): NS40</li>
-							<li><strong>Bandeja Mediana</strong> (252 x 174): N40 – 36 – 42 – 55  - 65</li>
-							<li><strong>Bandeja Grande</strong> (282 x 174): 66 – 34 - 24</li>
-						</ul>
-					</li>
-					<li>Material: Caucho</li>
+					<li>Herramienta que permite conocer la densidad de la solución electrolito de tu batería</li>
+					<li>Útil para conocer el estado de carga de la batería</li>
+					<li>De uso es fácil</li>
 				</ul>
 				</div>
 

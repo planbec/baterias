@@ -15,23 +15,18 @@
 
 
 
-				<h1><span>Bandejas</span></h1>
+				<h1><span>Comprobadores de Baterias</span></h1>
 
 				<div class="portafolio-ampliado">
-					<img src="img/prod_bandejas.jpg" alt="Bandejas" class="imagen-destacada">
+					<img src="img/prod_comprobadores_baterias.jpg" alt="Comprobadores de Baterias" class="imagen-destacada">
 				</div>
 				
 				<div class="portafolio-ampliado">
 				<p><strong>Especificaciones:</strong></p>
 				<ul>
-					<li>Medidas en:
-						<ul>
-							<li><strong>Bandeja Pequeña</strong> (198 x 132): NS40</li>
-							<li><strong>Bandeja Mediana</strong> (252 x 174): N40 – 36 – 42 – 55  - 65</li>
-							<li><strong>Bandeja Grande</strong> (282 x 174): 66 – 34 - 24</li>
-						</ul>
-					</li>
-					<li>Material: Caucho</li>
+					<li>Artículo Probador de Carga de Bateria, Tipo Uso Rudo, Rangos de Carga 130A, </li>
+					<li>Rango de Voltaje 0 a 16V, Se Utiliza Con Baterías 6V y 12V, Pantalla Extragrande,</li>
+					<li>Altura 11 pulg., Ancho 8pulg., Profundidad 4-1/2pulg., Incluye Lengüeta</li>
 				</ul>
 				</div>
 

@@ -15,23 +15,19 @@
 
 
 
-				<h1><span>Bandejas</span></h1>
+				<h1><span>Cepillo Para Bornes</span></h1>
 
 				<div class="portafolio-ampliado">
-					<img src="img/prod_bandejas.jpg" alt="Bandejas" class="imagen-destacada">
+					<img src="img/prod_cepillo_bornes.jpg" alt="Bandejas" class="imagen-destacada">
 				</div>
 				
 				<div class="portafolio-ampliado">
 				<p><strong>Especificaciones:</strong></p>
 				<ul>
-					<li>Medidas en:
-						<ul>
-							<li><strong>Bandeja Pequeña</strong> (198 x 132): NS40</li>
-							<li><strong>Bandeja Mediana</strong> (252 x 174): N40 – 36 – 42 – 55  - 65</li>
-							<li><strong>Bandeja Grande</strong> (282 x 174): 66 – 34 - 24</li>
-						</ul>
-					</li>
-					<li>Material: Caucho</li>
+					<li>Cepillo limpiador 2 en 1 </li>
+					<li>Parte delantera para limpiar los bornes de la batería </li>
+					<li>Cepillo trasero para limpiar el interior de los conductores </li>
+					<li>Permite la limpieza de óxido y mejora la conductividad</li>
 				</ul>
 				</div>
 
