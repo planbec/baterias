@@ -15,12 +15,12 @@
 				<div class="portafolio-list cols">		
 					
 					<article class="portafolio-resumen col3 text-center ">
-						<a href="productos-ampliado.php"><img src="img/muebles.jpg" alt="Estructura 20 DC" /></a>
+						<a href="productos-bandejas.php"><img src="img/prod_bandejas.jpg" alt="Bandejas" /></a>
 						<header>
-							<h3><a href="productos-ampliado.php">Estructura 20 DC</a></h3>
+							<h3><a href="productos-bandejas.php">Bandejas</a></h3>
 						</header>
 						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
-						<a href="productos-ampliado.php" class="btn-light">Ver m&aacute;s detalles</a>
+						<a href="productos-bandejas.php" class="btn-light">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
 					
 					
