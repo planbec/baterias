@@ -5,74 +5,65 @@
 	
 	<main id="content-area">
 	
-		<article class="single-page portafolio-detalle">
-			
-			
-			<header class="page-header">
-				<div class="container">
-					
-					<h1>Estructura 20 DC</h1>
-					
-					<p>Dimensiones Exteriores: <br>6.06 x 2.44 x 2.59 m</p>
-				
-				</div>
-			</header><!-- /.page-header -->
-			
-			
+		<article class="single-page portafolio-detalle">	
+
+				<header class="page-header">
+					<h2 class="text-center">Nuestros productos</h2>
+				</header>	
 			
 			<div class="container page-content">
+
+
+
+				<h1><span>Productos ampliado</span></h1>
+
+				<div class="portafolio-ampliado">
+					<img src="img/muebles.jpg" alt="Estructura 20 DC" class="imagen-destacada">
+				</div>
 				
-				<img src="img/prod_20dc.png" alt="Estructura 20 DC" class="imagen-destacada">
-				
+				<div class="portafolio-ampliado">
 				<p>Contenedor Marítimo de 20 pies de largo estándar, muro perimetral del contenedor en base a plancha plegada de acero de 2,5 mm de espesor, unidas mediante soldadura MIG, piso en planchas de terciado de 32 mm fijadas mediante pernos autoroscantes. </p>
 				<p>Especialmente diseño para traslado de mercadería seca y uso de bodega estática.</p>
+				</div>
+
+			</div><!-- /.cols -->
+
+			<section id="productos-home" class="container brdr-top">
+			<h2>Otros productos</h2>
+			<div class="cols cf">
 				
-				<h2>Otros productos</h2>
+				<article>
+					<div class="producto">
+						<a href="#"><img src="img/foto_aura.jpg"></a>
+						<a href="calidad.php">Ver m&aacute;s</a>
+					</div><!-- /.icono -->
 
-				<ul class="prod-thumbs">
+					<div class="producto">
+						<a href="#"><img src="img/foto_aura.jpg"></a>
+						<a href="calidad.php">Ver m&aacute;s</a>
+					</div><!-- /.icono -->
 
-				<li>
-				<a href="productos-estructura40hc.php">
-				<img src="img/prod_40hc.png" alt="Estructura 40 HC">
-				</a>
-				<h3>Estructura 40 HC</h3>
-				<a href="productos-estructura40hc.php" class="btn btn-light">Ver mas detalles</a>
-				</li>
+					<div class="producto">
+						<a href="#"><img src="img/foto_aura.jpg"></a>
+						<a href="calidad.php">Ver m&aacute;s</a>
+					</div><!-- /.icono -->
 
-				<li>
-				<a href="productos-reefers.php" >
-				<img src="img/prod_reefers.png" alt="Reefers">
-				</a>
-				<h3>Reefers</h3>
-				<a href="productos-reefers.php" class="btn btn-light">Ver mas detalles</a>
-				</li>
+					<div class="producto">
+						<a href="#"><img src="img/foto_aura.jpg"></a>
+						<a href="calidad.php">Ver m&aacute;s</a>
+					</div><!-- /.icono -->
 
-				<li>
-				<a href="productos-modulos.php">
-				<img src="img/prod_modulos.png" alt="Módulos para oficina">
-				</a>
-				<h3>M&oacute;dulos de oficina</h3>
-				<a href="productos-modulos.php" class="btn btn-light">Ver mas detalles</a>
-				</li>
+					<div class="producto">
+						<a href="#"><img src="img/foto_aura.jpg"></a>
+						<a href="calidad.php">Ver m&aacute;s</a>
+					</div><!-- /.icono -->
 
-				<li>
-				<a href="productos-opentop.php">
-				<img src="img/prod_opentop.png" alt="Open Top">
-				</a>
-				<h3>Open Top</h3>
-				<a href="productos-opentop.php" class="btn btn-light">Ver mas detalles</a>
-				</li>
+				</article>
 
-				<li>
-				<a href="productos-flatrack.php">
-				<img src="img/prod_flatrack.png" alt="Flat Rack">
-				</a>
-				<h3>Flat Rack</h3>
-				<a href="productos-flatrack.php" class="btn btn-light">Ver mas detalles</a>
-				</li>
+			
+		</section><!-- /#Productoss-home -->
 
-</ul>
-							
+
 			</div><!-- /.content -->
 			
 		</article><!-- /#single-page -->

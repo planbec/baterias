@@ -27,7 +27,7 @@
 .aligncenter{display:block;margin:1.5em auto;}
 
 
-.detalle-servicio{ display:table; margin-bottom:1.5em; width: 80%; margin: auto;
+.detalle-servicio { display:table; margin-bottom:1.5em; width: 80%; margin: auto;
 	.foto { float: left; margin: 1rem; width: 25%;
 		img { border-radius: 10%; border: 1px solid #ddd; max-width:100%; padding: 2px; }
 		}
@@ -81,7 +81,6 @@
 	.bg-cont {
 	    /*background:#efeded url(../img/bk_m10.png) top center repeat-x;*/
 	}
-
 }
 
 
@@ -107,7 +106,7 @@
 				}
 			}
 		}
-		li a { color:$color-prim; border-top:6px solid $color-bla;  padding:0.5rem 1em; /*margin: 0 0.5rem;*/ background:transparent; display:block;
+		li a { color:$color-prim; border-top:6px solid $bg-claro;  padding:0.5rem 1em; /*margin: 0 0.5rem;*/ background:transparent; display:block;
 			&:hover, &.active { /*background:#383636;*/ border-top:6px solid $color-azul; color:$color-sec; text-decoration:none;
 			}
 		}
@@ -230,8 +229,8 @@
     }
 }
 
-/* Portada - Sobre nosotros */
-#nosotros-home a {
+/* Botones */
+.btn-light {
 	color:$txt-osc;
 	font-size: 0.8rem;
 	-webkit-transition: all .15s linear;
@@ -242,9 +241,15 @@
 	border-radius: 0.5rem;
     border: 1px solid #9aa9b9;
     padding: 0.5rem 1rem;
-    float: left;
+    /*float: left;*/
 	&:hover { background:$color-ter; text-decoration: none; }
 }
+
+/* Call to action */
+.call-to-action { background:$bg-call; color:$color-bla; border:1px solid $bg-call; border-radius:1.5rem; padding:0.8rem 2rem; text-decoration: none; text-transform: uppercase; 
+	&:hover { background:$color-bla; color:$bg-call; text-decoration: none; }
+}
+
 
 /* Portada - Registros */
 #registros-home { 
@@ -272,11 +277,21 @@
     }
 }
 
-
-/* Call to action */
-.call-to-action { background:$bg-call; color:$color-bla; border:1px solid $bg-call; border-radius:1.5rem; padding:0.8rem 2rem; text-decoration: none; text-transform: uppercase; 
-	&:hover { background:$color-bla; color:$bg-call; text-decoration: none; }
+.portafolio-resumen {
+    padding: 1rem 0 2rem;
+    border-bottom: $bdr-dot;
+    img { opacity:1; 
+    	&:hover  { opacity:0.6; }
+    }
 }
+
+.portafolio-ampliado {
+    width: 50%;
+    float: left;
+    padding: 0 2rem;
+}
+
+
 
 
 /* Portada - Testimonios en slider */
@@ -341,16 +356,15 @@ input[type="submit"],input[type="button"]{ border:0;color:#fff;display:inline-bl
 
 
 .page-header{
-	background:#104268 url(../img/bk_amp.png) bottom center repeat-x;
+	background: url(../img/bg-batery.jpg) bottom center repeat-x;
 	border-bottom: 5px solid #e0e0e0;
-	padding:3.7rem 0 1.5rem;
+	padding:1.2rem 0 1rem;
 	text-align:center;
 	
-	h1 {
-		color: $color-hed;
-		font: 400 2.5rem/2.1rem 'Raleway', Arial;
+	h2 {
+		color: $color-ter;
+		font: 400 1.7rem/2.1rem 'Raleway', Arial;
 		margin:0;
-		text-shadow: 1px 1px 2px #020303;
 		}
 	p {
 		color: #333;

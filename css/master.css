@@ -130,6 +130,12 @@ hr.center {
 .text-center {
   text-align: center !important; }
 
+.brdr-top {
+  border-top: 1px dashed #b2bec4; }
+
+.clear {
+  clear: both; }
+
 .fl {
   float: left; }
 
@@ -367,7 +373,7 @@ hr.center {
           color: #FFF; }
     #main-menu ul li a {
       color: #30436b;
-      border-top: 6px solid #FFF;
+      border-top: 6px solid #f7f7f7;
       padding: 0.5rem 1em;
       /*margin: 0 0.5rem;*/
       background: transparent;
@@ -543,8 +549,8 @@ hr.center {
         .citas form input.btn-form:hover, .citas form select.btn-form:hover {
           background: #e99935 !important; }
 
-/* Portada - Sobre nosotros */
-#nosotros-home a {
+/* Botones */
+.btn-light {
   color: #263840;
   font-size: 0.8rem;
   -webkit-transition: all .15s linear;
@@ -555,9 +561,23 @@ hr.center {
   border-radius: 0.5rem;
   border: 1px solid #9aa9b9;
   padding: 0.5rem 1rem;
-  float: left; }
-  #nosotros-home a:hover {
+  /*float: left;*/ }
+  .btn-light:hover {
     background: #afcfe6;
+    text-decoration: none; }
+
+/* Call to action */
+.call-to-action {
+  background: #ef6b23;
+  color: #FFF;
+  border: 1px solid #ef6b23;
+  border-radius: 1.5rem;
+  padding: 0.8rem 2rem;
+  text-decoration: none;
+  text-transform: uppercase; }
+  .call-to-action:hover {
+    background: #FFF;
+    color: #ef6b23;
     text-decoration: none; }
 
 /* Portada - Registros */
@@ -591,19 +611,18 @@ hr.center {
   #productos-home .producto:hover {
     background: #eee; }
 
-/* Call to action */
-.call-to-action {
-  background: #ef6b23;
-  color: #FFF;
-  border: 1px solid #ef6b23;
-  border-radius: 1.5rem;
-  padding: 0.8rem 2rem;
-  text-decoration: none;
-  text-transform: uppercase; }
-  .call-to-action:hover {
-    background: #FFF;
-    color: #ef6b23;
-    text-decoration: none; }
+.portafolio-resumen {
+  padding: 1rem 0 2rem;
+  border-bottom: 1px dashed #b2bec4; }
+  .portafolio-resumen img {
+    opacity: 1; }
+    .portafolio-resumen img:hover {
+      opacity: 0.6; }
+
+.portafolio-ampliado {
+  width: 50%;
+  float: left;
+  padding: 0 2rem; }
 
 /* Portada - Testimonios en slider */
 #testimonios-area {
@@ -733,15 +752,14 @@ input[type="submit"], input[type="button"] {
     text-decoration: none; }
 
 .page-header {
-  background: #104268 url(../img/bk_amp.png) bottom center repeat-x;
+  background: url(../img/bg-batery.jpg) bottom center repeat-x;
   border-bottom: 5px solid #e0e0e0;
-  padding: 3.7rem 0 1.5rem;
+  padding: 1.2rem 0 1rem;
   text-align: center; }
-  .page-header h1 {
-    color: #55abde;
-    font: 400 2.5rem/2.1rem 'Raleway', Arial;
-    margin: 0;
-    text-shadow: 1px 1px 2px #020303; }
+  .page-header h2 {
+    color: #afcfe6;
+    font: 400 1.7rem/2.1rem 'Raleway', Arial;
+    margin: 0; }
   .page-header p {
     color: #333;
     font-size: 1.2em;

@@ -4,11 +4,14 @@
 	
 	<main id="content-area">
 		<div class="bg-cont">
+				<header class="page-header">
+					<h2 class="text-center">Quienes somos</h2>
+				</header>	
 
 		<article class="single-page">
 			
 			<div class="container page-content">
-				<h1><span>Quienes somos</span></h1>					
+				<h1><span>Sobre nosotros</span></h1>					
 
 				<div class="ampliada">
 

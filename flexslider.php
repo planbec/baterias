@@ -2,7 +2,7 @@
 
 			<div class="intro">
 				<p>Somos <span>importadores directos</span> de <span>accesorios</span> para <span>Bater&iacute;as</span></p>
-				<a href="#" class="call-to-action">Ver m&aacute;s</a>
+				<a href="productos.php" class="call-to-action">Ver m&aacute;s</a>
 			</div>
 
 

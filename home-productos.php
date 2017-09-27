@@ -29,8 +29,8 @@
 						<a href="calidad.php">Ver m&aacute;s</a>
 					</div><!-- /.icono -->
 
-					<center><a href="#" class="call-to-action">Ver más productos</a></center>
-					
+					<center><a href="productos.php" class="call-to-action">Ver más productos</a></center>
+				</article>
 				
 			</div><!-- /.cols -->
 			
