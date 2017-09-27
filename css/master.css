@@ -326,7 +326,7 @@ hr.center {
 
 #content-area {
   clear: both;
-  margin-top: 11rem; }
+  margin-top: 12rem; }
   #content-area .bg-cont {
     /*background:#efeded url(../img/bk_m10.png) top center repeat-x;*/ }
 
@@ -343,7 +343,7 @@ hr.center {
     display: block;
     line-height: 1rem;
     border-bottom: none;
-    width: 160px; }
+    width: 170px; }
     .logo-header .logo img {
       width: 100%; }
   .logo-header .slogan {
@@ -645,10 +645,25 @@ header, .logo-header, .call-action, img {
   float: left;
   padding: 0 2rem; }
 
+.alerta {
+  background: #f7f7f7;
+  color: #222;
+  font-size: 1.2rem;
+  padding: 1em 2em;
+  -webkit-border-radius: .5em;
+  -moz-border-radius: .5em;
+  -ms-border-radius: .5em;
+  -o-border-radius: .5em;
+  border-radius: .5em;
+  border: 1px solid #ef6b23;
+  margin-bottom: 1em;
+  text-align: center; }
+
 /* Portada - Testimonios en slider */
 #testimonios-area {
   color: #fff;
-  position: relative; }
+  position: relative;
+  margin: 1rem 0 2rem; }
   #testimonios-area .container {
     padding: 0 6em; }
   #testimonios-area .flex-direction-nav {

@@ -79,7 +79,7 @@
 }
 
 
-#content-area { clear:both; margin-top:11rem; 
+#content-area { clear:both; margin-top:12rem; 
 	.bg-cont {
 	    /*background:#efeded url(../img/bk_m10.png) top center repeat-x;*/
 	}
@@ -89,7 +89,7 @@
 
 #main-header .menu-trigger{ display:none }
 .logo-header{ display:table-cell; width:12%; padding:1rem 0 0;
-	.logo {margin:0; padding:0; display:block; line-height:1rem; border-bottom: none;  width: 160px;
+	.logo {margin:0; padding:0; display:block; line-height:1rem; border-bottom: none;  width: 170px;
 		img { width: 100%; }
 	 }
 	.slogan{ display:none; font-size:.7em;text-align:center;text-transform:uppercase;line-height:1.2em;
@@ -317,12 +317,26 @@ header, .logo-header, .call-action, img {
 }
 
 
-
+.alerta{ 
+	background:$bg-claro; 
+	color:$color-titulos; 
+	font-size: 1.2rem; 
+	padding:1em 2em; 
+	-webkit-border-radius:.5em; 
+	-moz-border-radius:.5em; 
+	-ms-border-radius:.5em; 
+	-o-border-radius:.5em; 
+	border-radius:.5em; 
+	border:1px solid $bg-call; 
+	margin-bottom:1em; 
+	text-align: center;
+}
 
 /* Portada - Testimonios en slider */
 #testimonios-area { 
 	color:#fff; 
 	position:relative;
+	margin: 1rem 0 2rem;
 	.container {
 		padding:0 6em;
 		}
