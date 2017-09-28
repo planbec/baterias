@@ -94,7 +94,7 @@
 						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
 						<a href="productos-protectores-guardafangos.php" class="btn-light">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
-					
+
 					
 					
 					<article class="portafolio-resumen col3 text-center ">
@@ -104,6 +104,36 @@
 						</header>
 						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
 						<a href="productos-salvadores-memoria.php" class="btn-light">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
+
+					<article class="portafolio-resumen col3 text-center ">
+						<a href="productos-soportes-baterias.php"><img src="img/prod_soportes_baterias.jpg" alt="Soportes Para Baterías" /></a>
+						<header>
+							<h3><a href="productos-soportes-baterias.php">Soportes Para Baterías</a></h3>
+						</header>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
+						<a href="productos-soportes-baterias.php" class="btn-light">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
+
+					<article class="portafolio-resumen col3 text-center ">
+						<a href="productos-voltimetros.php"><img src="img/prod_voltimetros.jpg" alt="Voltimetros" /></a>
+						<header>
+							<h3><a href="productos-voltimetros.php">Voltimetros</a></h3>
+						</header>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
+						<a href="productos-voltimetros.php" class="btn-light">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
+
+					<article class="portafolio-resumen col3 text-center ">
+						<a href="productos-probador-baterias.php"><img src="img/prod_probador_baterias.jpg" alt="Probador de Baterías 12V" /></a>
+						<header>
+							<h3><a href="productos-probador-baterias.php">Probador de Baterías</a></h3>
+						</header>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
+						<a href="productos-probador-baterias.php" class="btn-light">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
 
 
