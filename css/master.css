@@ -624,9 +624,11 @@ header, .logo-header, .call-action, img {
   padding: 1rem 1%;
   text-align: center;
   border-radius: 0.8rem;
-  margin: 1rem 0 3rem; }
+  margin: 1rem 0 3rem;
+  vertical-align: top; }
   #productos-home .producto img {
-    border-radius: 0.5rem; }
+    border-radius: 0.5rem;
+    border: 1px solid #b2bec4; }
     #productos-home .producto img:hover {
       opacity: 0.5; }
   #productos-home .producto:hover {
@@ -644,6 +646,9 @@ header, .logo-header, .call-action, img {
   width: 50%;
   float: left;
   padding: 0 2rem; }
+  .portafolio-ampliado .imagen-destacada {
+    border: 1px solid #b2bec4;
+    border-radius: 1rem; }
 
 .alerta {
   background: #f7f7f7;

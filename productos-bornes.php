@@ -36,28 +36,30 @@
 				
 				<article>
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-cepillo-bornes.php"><img src="img/prod_cepillo_bornes.jpg"></a>
+						<a href="productos-cepillo-bornes.php">Cepillo Para Bornes</a>
 					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-comprobadores-baterias.php"><img src="img/prod_comprobadores_baterias.jpg"></a>
+						<a href="productos-comprobadores-baterias.php">Comprobadores de Baterias</a>
 					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-densimetros.php"><img src="img/prod_densimetros.jpg"></a>
+						<a href="productos-densimetros.php">Densimetros</a>
 					</div><!-- /.icono -->
 
-					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
-					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-kit-herramientas-baterias.php"><img src="img/prod_kit_herramientas_baterias.jpg"></a>
+						<a href="productos-kit-herramientas-baterias.php">Kit de herramientas</a>
+					</div><!-- /.icono -->
+
+
+					<div class="producto">
+						<a href="productos-protectores-baterias.php"><img src="img/prod_protectores_baterias.jpg"></a>
+						<a href="productos-protectores-baterias.php">Protectores para baterías</a>
 					</div><!-- /.icono -->
 
 				</article>

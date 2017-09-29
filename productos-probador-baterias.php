@@ -42,28 +42,28 @@
 				
 				<article>
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-bandejas.php"><img src="img/prod_bandejas.jpg"></a>
+						<a href="productos-bandejas.php">Bandejas</a>
 					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-bornes.php"><img src="img/prod_bornes.jpg"></a>
+						<a href="productos-bornes.php">Bornes Para Baterías</a>
 					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-cepillo-bornes.php"><img src="img/prod_cepillo_bornes.jpg"></a>
+						<a href="productos-cepillo-bornes.php">Cepillo Para Bornes</a>
 					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-comprobadores-baterias.php"><img src="img/prod_comprobadores_baterias.jpg"></a>
+						<a href="productos-comprobadores-baterias.php">Comprobadores de Baterias</a>
 					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-densimetros.php"><img src="img/prod_densimetros.jpg"></a>
+						<a href="productos-densimetros.php">Densimetros</a>
 					</div><!-- /.icono -->
 
 				</article>

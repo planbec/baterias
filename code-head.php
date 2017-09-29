@@ -12,7 +12,7 @@ $uri = (empty($uri)) ? 'index' : $uri;
 <html lang="es">
 <head>
 	<meta charset="utf-8">
-	<title>Accesorios para Baterias | Página principal</title>
+	<title>AB Accesorios para Baterias | Página principal</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 	<meta name="author" content="Carlos Zambrano M. - PlanB.ec | Francisco Aguilera G. - http://franciscoamk.com">
 	

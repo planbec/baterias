@@ -32,6 +32,27 @@
 						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
 						<a href="productos-bornes.php" class="btn-light">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
+
+
+
+					<article class="portafolio-resumen col3 text-center ">
+						<a href="productos-protectores-baterias.php"><img src="img/prod_protectores_baterias.jpg" alt="Protectores para baterías" /></a>
+						<header>
+							<h3><a href="productos-protectores-baterias.php">Protectores para baterías</a></h3>
+						</header>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
+						<a href="productos-protectores-baterias.php" class="btn-light">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
+					
+					<article class="portafolio-resumen col3 text-center ">
+						<a href="productos-soportes-baterias.php"><img src="img/prod_soportes_baterias.jpg" alt="Soportes Para Baterías" /></a>
+						<header>
+							<h3><a href="productos-soportes-baterias.php">Soportes Para Baterías</a></h3>
+						</header>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
+						<a href="productos-soportes-baterias.php" class="btn-light">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
 					
 					
 					<article class="portafolio-resumen col3 text-center ">
@@ -76,17 +97,6 @@
 
 
 					<article class="portafolio-resumen col3 text-center ">
-						<a href="productos-protectores-baterias.php"><img src="img/prod_protectores_baterias.jpg" alt="Protectores para baterías" /></a>
-						<header>
-							<h3><a href="productos-protectores-baterias.php">Protectores para baterías</a></h3>
-						</header>
-						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
-						<a href="productos-protectores-baterias.php" class="btn-light">Ver m&aacute;s detalles</a>
-					</article><!-- /.portafolio-resumen -->
-
-
-
-					<article class="portafolio-resumen col3 text-center ">
 						<a href="productos-protectores-guardafangos.php"><img src="img/prod_protectores_guardafangos.jpg" alt="Protectores para guardafangos" /></a>
 						<header>
 							<h3><a href="productos-protectores-guardafangos.php">Protectores para guardafangos</a></h3>
@@ -106,15 +116,6 @@
 						<a href="productos-salvadores-memoria.php" class="btn-light">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
 
-
-					<article class="portafolio-resumen col3 text-center ">
-						<a href="productos-soportes-baterias.php"><img src="img/prod_soportes_baterias.jpg" alt="Soportes Para Baterías" /></a>
-						<header>
-							<h3><a href="productos-soportes-baterias.php">Soportes Para Baterías</a></h3>
-						</header>
-						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
-						<a href="productos-soportes-baterias.php" class="btn-light">Ver m&aacute;s detalles</a>
-					</article><!-- /.portafolio-resumen -->
 
 
 					<article class="portafolio-resumen col3 text-center ">

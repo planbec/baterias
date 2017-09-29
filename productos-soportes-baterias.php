@@ -39,28 +39,29 @@
 				
 				<article>
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-voltimetros.php"><img src="img/prod_voltimetros.jpg"></a>
+						<a href="productos-voltimetros.php">Voltimetros</a>
+					</div><!-- /.icono -->
+
+
+					<div class="producto">
+						<a href="productos-probador-baterias.php"><img src="img/prod_probador_baterias.jpg"></a>
+						<a href="productos-probador-baterias.php">Probador de Baterías</a>
 					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-bandejas.php"><img src="img/prod_bandejas.jpg"></a>
+						<a href="productos-bandejas.php">Bandejas</a>
 					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-bornes.php"><img src="img/prod_bornes.jpg"></a>
+						<a href="productos-bornes.php">Bornes Para Baterías</a>
 					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
-					</div><!-- /.icono -->
-
-					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-cepillo-bornes.php"><img src="img/prod_cepillo_bornes.jpg"></a>
+						<a href="productos-cepillo-bornes.php">Cepillo Para Bornes</a>
 					</div><!-- /.icono -->
 
 				</article>

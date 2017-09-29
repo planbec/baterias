@@ -40,28 +40,32 @@
 				
 				<article>
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-protectores-guardafangos.php"><img src="img/prod_protectores_guardafangos.jpg"></a>
+						<a href="productos-protectores-guardafangos.php">Protectores para guardafangos</a>
 					</div><!-- /.icono -->
 
-					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
-					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-salvadores-memoria.php"><img src="img/prod_salvadores_memoria.jpg"></a>
+						<a href="productos-salvadores-memoria.php">Salvadores de Memoria</a>
 					</div><!-- /.icono -->
 
-					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
-					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="#"><img src="img/foto_aura.jpg"></a>
-						<a href="calidad.php">Ver m&aacute;s</a>
+						<a href="productos-soportes-baterias.php"><img src="img/prod_soportes_baterias.jpg"></a>
+						<a href="productos-soportes-baterias.php">Soportes Para Baterías</a>
+					</div><!-- /.icono -->
+
+
+					<div class="producto">
+						<a href="productos-voltimetros.php"><img src="img/prod_voltimetros.jpg"></a>
+						<a href="productos-voltimetros.php">Voltimetros</a>
+					</div><!-- /.icono -->
+
+
+					<div class="producto">
+						<a href="productos-probador-baterias.php"><img src="img/prod_probador_baterias.jpg"></a>
+						<a href="productos-probador-baterias.php">Probador de Baterías</a>
 					</div><!-- /.icono -->
 
 				</article>
