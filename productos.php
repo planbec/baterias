@@ -180,6 +180,39 @@
 					</article><!-- /.portafolio-resumen -->
 
 
+					<article class="portafolio-resumen col3 text-center ">
+						<a href="productos-cargador-ic3.php"><img src="img/prod_cargador_ic3.jpg" alt="Cargador IC-3 (1-3 baterias)" /></a>
+						<header>
+							<h3><a href="productos-cargador-ic3.php">Cargador IC-3 (1-3 baterias)</a></h3>
+						</header>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
+						<a href="productos-cargador-ic3.php" class="btn-light">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
+
+
+					<article class="portafolio-resumen col3 text-center ">
+						<a href="productos-cargador-ic7.php"><img src="img/prod_cargador_ic7.jpg" alt="Cargador IC-7 (1-7 baterias)" /></a>
+						<header>
+							<h3><a href="productos-cargador-ic7.php">Cargador IC-7 (1-7 baterias)</a></h3>
+						</header>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
+						<a href="productos-cargador-ic7.php" class="btn-light">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
+
+
+					<article class="portafolio-resumen col3 text-center ">
+						<a href="productos-cargador-ic10.php"><img src="img/prod_cargador_ic10.jpg" alt="Cargador IC-10 (1-10 baterias)" /></a>
+						<header>
+							<h3><a href="productos-cargador-ic10.php">Cargador IC-10 (1-10 baterias)</a></h3>
+						</header>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
+						<a href="productos-cargador-ic10.php" class="btn-light">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
+
+
 				</div>
 			
 			</div><!-- /.content -->
