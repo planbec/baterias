@@ -18,7 +18,7 @@
 				</div>
 
 				<div class="testimonio">
-					<img src="img/slider03.jpg" alt="Familias" >
+					<img src="img/slider04.jpg" alt="Familias" >
 				</div>
 
 

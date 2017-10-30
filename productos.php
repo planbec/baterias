@@ -158,6 +158,28 @@
 					</article><!-- /.portafolio-resumen -->
 
 
+
+					<article class="portafolio-resumen col3 text-center ">
+						<a href="productos-jarra_1litro.php"><img src="img/prod_jarra_1litro.jpg" alt="Jarra 1 litro" /></a>
+						<header>
+							<h3><a href="productos-jarra_1litro.php">Jarra 1 litro</a></h3>
+						</header>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
+						<a href="productos-jarra_1litro.php" class="btn-light">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
+
+
+					<article class="portafolio-resumen col3 text-center ">
+						<a href="productos-jarra_2litros.php"><img src="img/prod_jarra_2litros.jpg" alt="Jarra 2 litros" /></a>
+						<header>
+							<h3><a href="productos-jarra_2litros.php">Jarra 2 litros</a></h3>
+						</header>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
+						<a href="productos-jarra_2litros.php" class="btn-light">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
+
 				</div>
 			
 			</div><!-- /.content -->
