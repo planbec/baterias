@@ -15,10 +15,10 @@
 
 
 
-				<h1><span>Protectores para baterías</span></h1>
+				<h1><span>Protectores para baterías 4 lados</span></h1>
 
 				<div class="portafolio-ampliado">
-					<img src="img/prod_protectores_baterias.jpg" alt="Protectores para baterías" class="imagen-destacada">
+					<img src="img/prod_protectores_baterias_4lados.jpg" alt="Protectores para baterías 4 lados" class="imagen-destacada">
 				</div>
 				
 				<div class="portafolio-ampliado">
@@ -28,7 +28,7 @@
 					<li>Reduce la evaporación del agua de la batería</li>
 					<li>Evita que la batería se quede sin agua y se quemen las placas</li>
 					<li>Evita que las placas se debiliten por el exceso de calor</li>
-					<li>Presentaciones: 3 y 4 Lados</li>
+					<li>Presentaciones: 4 Lados</li>
 				</ul>
 				</div>
 

@@ -36,12 +36,22 @@
 
 
 					<article class="portafolio-resumen col3 text-center ">
-						<a href="productos-protectores-baterias.php"><img src="img/prod_protectores_baterias.jpg" alt="Protectores para baterías" /></a>
+						<a href="productos-protectores-baterias-3lados.php"><img src="img/prod_protectores_baterias.jpg" alt="Protectores para baterías 3 lados" /></a>
 						<header>
-							<h3><a href="productos-protectores-baterias.php">Protectores para baterías</a></h3>
+							<h3><a href="productos-protectores-baterias-3lados.php">Protectores para baterías 3 lados</a></h3>
 						</header>
 						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
-						<a href="productos-protectores-baterias.php" class="btn-light">Ver m&aacute;s detalles</a>
+						<a href="productos-protectores-baterias-3lados.php" class="btn-light">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
+
+					<article class="portafolio-resumen col3 text-center ">
+						<a href="productos-protectores-baterias-4lados.php"><img src="img/prod_protectores_baterias_4lados.jpg" alt="Protectores para baterías 4 lados" /></a>
+						<header>
+							<h3><a href="productos-protectores-baterias-4lados.php">Protectores para baterías 4 lados</a></h3>
+						</header>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
+						<a href="productos-protectores-baterias-4lados.php" class="btn-light">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
 
 					
@@ -52,6 +62,16 @@
 						</header>
 						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
 						<a href="productos-soportes-baterias.php" class="btn-light">Ver m&aacute;s detalles</a>
+					</article><!-- /.portafolio-resumen -->
+
+
+					<article class="portafolio-resumen col3 text-center ">
+						<a href="productos-anillos-antisulfatantes.php"><img src="img/prod_anillos_antisulfatantes.jpg" alt="Anillos antisulfatantes" /></a>
+						<header>
+							<h3><a href="productos-anillos-antisulfatantes.php">Anillos antisulfatantes</a></h3>
+						</header>
+						<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed convallis neque. </p-->
+						<a href="productos-anillos-antisulfatantes.php" class="btn-light">Ver m&aacute;s detalles</a>
 					</article><!-- /.portafolio-resumen -->
 					
 					

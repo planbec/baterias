@@ -47,13 +47,13 @@
 				<div class="col-center">
 				<i class="fa fa-line-chart" aria-hidden="true"></i>
 					<h2>Misi&oacute;n</h2>
-					<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat eros, tempus sed turpis quis, varius tincidunt metus. Quisque at aliquam orci. Donec faucibus felis dolor, ac pellentesque ante venenatis sed. Sed vel nisi faucibus, mattis purus sed.</p>
+					<p class="text-center">Somos una empresa que ofrece  un alto valor agregado a nuestra cartera de productos, mediante la identificaci&oacute;n y negociaci&oacute;n con los mejores fabricantes de piezas, partes, herramientas y accesorios de bater&iacute;as, siempre con el fin de cumplir con nuestra responsabilidad social, de lograr que los consumidores ecuatorianos obtengan el mayor beneficio por su inversi&oacute;n, mediante una operaci&oacute;n eficiente que asegura el precio m&aacute;s conveniente, sin afectar la calidad de nuestra oferta.</p>
 				</div>
 
 				<div class="col-center">
 				<i class="fa fa-eye" aria-hidden="true"></i>
 					<h2>Visi&oacute;n</h2>
-					<p class="text-center">Vivamus vitae tempus orci. Pellentesque sed sollicitudin metus. Aenean consequat erat vel felis ultricies, vitae efficitur augue placerat. Morbi tortor turpis, interdum eget libero eu, sollicitudin posuere nulla. Vivamus sagittis in mi ut sagittis.</p>
+					<p class="text-center">Somos una empresa que se proyecta como l&iacute;der proveedor de piezas, partes, herramientas y accesorios de todo tipo de bater&iacute;as en el Ecuador, con una estructura estrat&eacute;gicamente verticalizada en la manufactura local de una importante parte de nuestra oferta, con presencia en pa&iacute;ses de la regi&oacute;n. A trav&eacute;s de una unidad de investigaci&oacute;n &amp; desarrollo, podremos sellar nuestra ventaja competitiva, mediante la oferta de productos de alto valor agregado  y tecnolog&iacute;a, que ofrece soluciones adecuadas a las necesidades de los clientes locales.</p>
 				</div>
 			</aside>
 

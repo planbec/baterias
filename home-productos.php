@@ -15,13 +15,13 @@
 					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="productos-protectores-baterias.php"><img src="img/prod_protectores_baterias.jpg"></a>
-						<a href="productos-protectores-baterias.php">Protectores para baterías</a>
+						<a href="productos-protectores-baterias-3lados.php"><img src="img/prod_protectores_baterias.jpg"></a>
+						<a href="productos-protectores-baterias-3lados.php">Protectores para baterías 3 lados</a>
 					</div><!-- /.icono -->
 
 					<div class="producto">
-						<a href="productos-comprobadores-baterias.php"><img src="img/prod_comprobadores_baterias.jpg"></a>
-						<a href="productos-comprobadores-baterias.php">Comprobadores de Baterias</a>
+						<a href="productos-protectores-baterias-4lados.php"><img src="img/prod_protectores_baterias_4lados.jpg"></a>
+						<a href="productos-protectores-baterias-4lados.php">Comprobadores de Baterias 4 lados</a>
 					</div><!-- /.icono -->
 
 					<div class="producto">
