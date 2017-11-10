@@ -26,7 +26,7 @@
 				<ul>
 					<li>Cepillo limpiador 2 en 1 </li>
 					<li>Parte delantera para limpiar los bornes de la batería </li>
-					<li>Cepillo trasero para limpiar el interior de los conductores </li>
+					<li>Parte posterior para limpiar el interior de los conductores </li>
 					<li>Permite la limpieza de óxido y mejora la conductividad</li>
 				</ul>
 				</div>

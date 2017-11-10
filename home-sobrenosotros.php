@@ -7,7 +7,7 @@
 				
 					<div class="text">
 						<h2>Misi&oacute;n</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat eros, tempus sed turpis quis, varius tincidunt metus. Quisque at aliquam orci. Donec faucibus felis dolor, ac pellentesque ante venenatis sed. Sed vel nisi faucibus, mattis purus sed, ultrices odio. </p>
+						<p>Somos una empresa que ofrece un alto valor agregado a nuestra cartera de productos, mediante la identificación y negociación con los mejores fabricantes de piezas, partes, herramientas y accesorios de baterías... </p>
 						<a class="btn-light" href="quienessomos.php">Ver m&aacute;s [+]</a>
 					</div><!-- /.text -->
 				</article><!-- /.servicio-resumen -->
@@ -16,7 +16,7 @@
 				<article class="servicio-resumen col2">
 					<div class="text">
 						<h2>Visi&oacute;n</h2>
-						<p>Vivamus vitae tempus orci. Pellentesque sed sollicitudin metus. Aenean consequat erat vel felis ultricies, vitae efficitur augue placerat. Morbi tortor turpis, interdum eget libero eu, sollicitudin posuere nulla. Vivamus sagittis in mi ut sagittis.</p>
+						<p>Somos una empresa que se proyecta como líder proveedor de piezas, partes, herramientas y accesorios de todo tipo de baterías en el Ecuador, con una estructura estratégicamente verticalizada en la manufactura local de una importante parte de nuestra oferta...</p>
 						<a class="btn-light" href="quienessomos.php">Ver m&aacute;s [+]</a>
 					</div><!-- /.text -->
 				</article><!-- /.servicio-resumen -->

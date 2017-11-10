@@ -13,7 +13,7 @@
 				<div class="col3">
 					<h3>Sobre nosotros</h3>
 					<p>
-					Somos importadores directos de accesorios y para bater&iacute;as. 
+					Somos importadores y fabricantes de accesorios y para bater&iacute;as. 
 					Creando innovaciones en el &aacute;mbito de la personalizaci&oacute;n con calidad, servicio y profesionalismo. 
 					</p>
 					<a href="quienessomos.php">Ver m&aacute;s [+]</a>
